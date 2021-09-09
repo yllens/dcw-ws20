@@ -1,4 +1,9 @@
-""" Gap options:
+""" 
+Author: yllens, sen31196
+Last edited: 7th September 2021 
+Desription: Helper functons getting file paths and generating file paths.
+    
+    Gap options:
     - half
     - half+1
     - half-1
