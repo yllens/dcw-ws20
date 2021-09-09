@@ -23,8 +23,8 @@ Usage instruction:
 
 ## Text resources:
 
-German:  GermanNet   https://german.net/reading/ \
-English: Lingua  https://lingua.com/english/reading/ \
-         BC  https://learnenglishteens.britishcouncil.org/skills/reading/ \
-         LingPress https://linguapress.com/advanced/ \
-Russian: Brigham Young University text corpus provided by Rob Reynolds (https://github.com/reynoldsnlp/)
+* German:  GermanNet   https://german.net/reading/ \
+* English: Lingua  https://lingua.com/english/reading/ \
+        \quad BC  https://learnenglishteens.britishcouncil.org/skills/reading/ \
+        \quad LingPress https://linguapress.com/advanced/ \
+* Russian: Brigham Young University text corpus provided by Rob Reynolds (https://github.com/reynoldsnlp/)
