@@ -1,3 +1,9 @@
+"""
+Author: yllens, sen31196
+Last edited: 9th September 2021
+Desription: Processing (and analysing) raw texts for C-Test.
+"""
+
 import time
 import utils
 import os
