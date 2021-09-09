@@ -1,3 +1,9 @@
+"""
+Author: yllens, sne31196
+Last edited: 9th Spetember 2021 
+Desription: Contains functions for linguistic complexity analysis.
+"""
+
 import math
 import pyphen
 
