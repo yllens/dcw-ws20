@@ -1,0 +1,293 @@
+<!DOCTYPE html5>
+<html lang="en">
+<!-- Head -->
+
+<head>
+	<title>Data Collection on the Web</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link type="text/css" rel="stylesheet" href="../../../../css/styles.css">
+	<link type="text/css" rel="stylesheet" href="../../../../scripts/bootstrap-5.0.0-beta3/dist/css/bootstrap.min.css">
+</head>
+
+<!-- Body -->
+
+<body>
+	<!-- Navigation -->
+	<nav class="navbar bg-light">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="../../../index.html">Data Collection Project</a>
+			</div>
+			<ul class="nav">
+				<li class="nav-item"><a href="../../../index.html" class="nav-link">Главная</a></li>
+				<li class="nav-item"><a href="../../../info.html" class="nav-link">Содержание</a></li>
+				<li class="nav-item"><a href="../../../contact.html" class="nav-link">Контакты</a></li>
+			</ul>
+		</div>
+	</nav>
+
+	<!-- Content -->
+	<div class="container">
+		<form id="dataForm-de-assessor" name="dataForm" action="/submit-form-de-assessor" method="POST">
+			<!-- Tabs indicating form steps -->
+			<div class="form-steps">
+				<span class="formStep"></span> <!-- Intro -->
+				<span class="formStep"></span> <!-- Personal details -->
+				<span class="formStep"></span> <!-- Survey intro -->
+				<span class="formStep"></span> <!-- Text 1 -->
+				<span class="formStep"></span> <!-- Text 2 -->
+				<span class="formStep"></span> <!-- Text 3 -->
+				<span class="formStep"></span> <!-- Text 4 -->
+				<span class="formStep"></span> <!-- Text 5 -->
+				<span class="formStep"></span> <!-- Text 6 -->
+				<span class="formStep"></span> <!-- Text 7 -->
+				<span class="formStep"></span> <!-- Text 8 -->
+				<span class="formStep"></span> <!-- Submission confirmation -->
+			</div>
+
+			<!-- INTRO TAB -->
+			<div class="tab">
+				<br><br>
+				<h4>Условия и положения</h4>
+				Пожалуйста, внимательно прочтите условия участия в исследовании.
+				<br><br>
+				<h6>Информация и цель исследования</h6>
+				<p>
+					Исследование, в котором вас просят принять участие, сфокусировано на субъективных суждениях о
+					сложности коротких немецких текстов.
+				</p>
+				<p>
+				<p>
+					Сначала вам будет предложено заполнить небольшую анкету о знании языков. Затем вам будут показаны
+					восемь случайно выбранных коротких текстов на немецком языке, в которых, начиная со второго
+					предложения, половина каждого второго слова будет отсутствовать. Пожалуйста, заполните пробелы и
+					ответьте на вопросы под текстом.
+				</p>
+				<p>
+					Пожалуйста, убедитесь, что вас ничто не отвлекает от теста. На выполнение этого теста потребуется около 45 минут.
+				</p>
+
+				<h6>Компенсация</h6>
+				<p>Не предусмотрена</p>
+
+				<h6>Риски</h6>
+				<p>
+					Не имеется никаких известных рисков, связанных с участием в этом исследовании.
+				</p>
+
+				<h6>Ваши права на участие, отказ или отвод от участия</h6>
+
+				<p>
+				<div class="form-check">
+					<label id="tnc" class="form-check-label req-label">
+						Устанавливая этот флажок, я понимаю, что участие в этом исследовании является полностью
+						добровольным, и я могу отказаться от участия в исследовании в любое время и без штрафных
+						санкций. Если я передумаю и больше не захочу участвовать в этом исследовании, мое решение не
+						повлияет на мои оценки, классы или что-либо еще в Тюбингенском университете.
+					</label>
+					<input id="tnc" class="form-check-input req-field" type="checkbox"
+						oninput="hideErrorMsg(); this.className='form-check-input req-field'" required />
+					<div id="error" class="invalid-feedback">Вы должны согласиться, прежде чем продолжить.</div>
+				</div>
+				</p>
+
+				<h6>Конфиденциальность</h6>
+				<p>Вся собранная информация является полностью конфиденциальной и анонимной и будет использоваться
+					только в контексте этого исследования. Результаты тестов не будут переданы никому, кроме
+					экспериментаторов.</p>
+
+				<p>Если у вас имеются какие-либо вопросы или проблемы, пожалуйста, свяжитесь с нами по электронной почте
+					<a href="#">xxx@uni-tuebingen.de</a> или по телефону 07071-XX-XXXXX.
+				</p>
+
+				<p>
+					<b>Принимая данные условия, вы добровольно соглашаетесь участвовать в этом исследовании.</b>
+				</p>
+
+				<!-- Terms & conditions -->
+				<div class="form-check">
+					<label id="tnc" class="form-check-label req-label">Я согласен с правилами и условиями.</label>
+					<input id="tnc" class="form-check-input req-field" type="checkbox"
+						oninput="hideErrorMsg(); this.className='form-check-input req-field'" required />
+					<div id="error" class="invalid-feedback">Вы должны согласиться, прежде чем продолжить.</div>
+				</div>
+			</div>
+
+			<!-- PERSONAL DETAILS TAB -->
+			<div class="tab">
+				<br><br>
+				<h4>Персональная информация</h4>
+				<p>
+					Пожалуйста, заполните следующую форму. <br /><br />
+					<span style="color:#CB444A;">*</span> <span style="font-size:small;">Обязательное поле</span>
+				</p>
+
+				<!-- Status -->
+				<div class="form-group row mb-2">
+					<label for="proficiencyLevel" class="col-sm-4 col-form-label req-label">
+						Каков ваш уровень владения немецким языком?
+					</label>
+					<div class="col-sm-4" select-style>
+						<select class="form-control req-field" name="proficiencyLevel"
+							oninput="this.className='form-control req-field'" required>
+							<option value="" disabled selected>Выберите уровень</option>
+							<option value="unsure">Неуверенный</option>
+							<option value="learner">Учащийся L2</option>
+							<option value="heritage">Наследный язык (язык по наследству)</option>
+							<option value="native">Носитель языка </option>
+						</select>
+						<br>
+						<p style="font-size:10px">Наследный язык: язык на котором вы говорите (говорили) дома с членами
+							вашей семьи, отличный от языка на котором вы учились в школе</p>
+					</div>
+				</div>
+
+				<!-- Native language(s) -->
+				<div class="form-group row mb-2">
+					<label for="nativeLang" class="col-sm-4 col-form-label req-label">
+						Какой ваш родной язык?
+					</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control req-field" name="nativeLang"
+							oninput="this.className='form-control req-field'" required />
+					</div>
+				</div>
+
+				<!-- Other language(s) -->
+				<div class="form-group row mb-2">
+					<label for="otherLang" class="col-sm-4 col-form-label">
+						Вы говорите на каком-либо другом языке/языках?
+					</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control" name="otherLang"
+							oninput="this.className='form-control'" />
+					</div>
+				</div>
+
+				<!-- Teaching a foreign language -->
+				<div class="form-group row mb-2">
+					<label for="level" class="col-sm-4 col-form-label req-label">Вы преподаете или преподавали
+						когда-либо немецкий язык как иностранный?</label>
+					<div class="col-sm-4" select-style>
+						<select class="form-control req-field" id="hiddenSelect" name="taughtEnglishYesNo"
+							oninput="showTeachingQuestions(); this.className='form-control req-field';" required>
+							<option value="" disabled selected>Выберите опцию</option>
+							<option value="yes">Да</option>
+							<option value="no">Нет</option>
+						</select>
+					</div>
+				</div>
+
+				<!-- Teaching duration -->
+				<div class="form-group row mb-2 hidden-input-teacher-div" style="display:none;">
+					<label for="age" class="col-sm-4 col-form-label">Как долго вы преподаете / преподавали немецкий
+						язык?</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control" name="teachingDuration">
+					</div>
+				</div>
+
+				<!-- Teaching context -->
+				<div class="form-group row mb-2 hidden-input-teacher-div" style="display:none;">
+					<label for="age" class="col-sm-4 col-form-label">В каком контексте вы преподаете / преподавали
+						немецкий язык (университетская программа, средняя школа и т. д.)?</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control" name="teachingContext">
+					</div>
+				</div>
+
+				<!-- Teaching at which proficiency level -->
+				<div class="form-group row mb-2 hidden-input-teacher-div" style="display:none;">
+					<label for="age" class="col-sm-4 col-form-label">На каком уровне владения преподаете/ преподавали
+						немецкий язык (начальный, средний, A2, C1 и т. д.)?</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control" name="teachingLevel">
+					</div>
+				</div>
+
+				<!-- Education -->
+				<div class="form-group row mb-2">
+					<label for="education" class="col-sm-4 col-form-label req-label">
+						Какой у вас имеется самый высокий уровень законченного образования? Пожалуйста, выберите наиболее
+						подходящий.
+					</label>
+					<div class="col-sm-4" select-style>
+						<select class="form-control req-field" name="education"
+							oninput="this.className='form-control req-field'" required>
+							<option value="" disabled selected>Выберите уровень</option>
+							<option value="primaryschool">Начальная школа</option>
+							<option value="highschool">Средняя школа</option>
+							<option value="vocationaltraining">Профессиональное обучение</option>
+							<option value="undergraduate">Бакалавриат</option>
+							<option value="postgraduate">Магистратура, диплом о последипломном образовании или диплом о
+								высшем образовании, Аспирантура</option>
+							<option value="phd">Докторантура</option>
+						</select>
+					</div>
+				</div>
+
+				<!-- C-test -->
+				<div class="form-group row mb-2">
+					<label for="ctest" class="col-sm-4 col-form-label req-label">Вы когда-нибудь сдавали или проводили
+						C-тест?</label>
+					<div class="col-sm-4" select-style>
+						<select class="form-control req-field" name="ctest"
+							oninput="this.className='form-control req-field'" required>
+							<option value="" disabled selected>Выберите опцию</option>
+							<option value="yes">Да - сдавал(а) и проводил(а)</option>
+							<option value="yes">Да - только сдавал(а)</option>
+							<option value="yes">Да - только проводил(а)</option>
+							<option value="no">Нет</option>
+							<option value="dontKnow">Не знаю</option>
+						</select>
+					</div>
+				</div>
+			</div>
+
+			<!-- SURVEY INTRO TAB -->
+			<div class="tab">
+				<br><br>
+				<h4>Опрос</h4>
+				<p>
+					В следующем разделе вам будут показаны друг за другом 8 коротких текстов, по одному за раз. Прочтите текст,
+					заполните пропуски и ответьте на вопросы. В случае вопросов, которые не указаны как обязательные, вы
+					можете оставить их пустыми. Однако мы рекомендуем вам ответить на каждый вопрос.
+				</p>
+			</div>
+
+			<!-- TEXTS -->
+			<div id="gapTest">
+			</div>
+
+			<!-- END TAB -->
+			<div class="tab">
+				<div class="form-group row mb-2">
+					Вы уверены, что хотите отправить?
+				</div>
+			</div>
+
+			<!-- NAVIGATION BUTTONS -->
+			<div class="row mb-2" style="margin-top:2em;">
+				<div class="col-sm-10">
+					<input id="prevButton" type="button" class="btn btn-secondary" value="←"
+						onclick="nextTab(-1)">
+					<input id="nextButton" type="button" class="btn btn-outline-primary" value="→"
+						onclick="nextTab(1)">
+				</div>
+			</div>
+
+		</form>
+	</div>
+</body>
+
+<!-- Footer -->
+<footer id="page-footer" class="footer">&#169; 2021 Тюбингенский университет</footer>
+
+<!-- Scripts -->
+<script type="text/javascript" src="../../../../scripts/bootstrap-5.0.0-beta3/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../../../../scripts/navigation.js"></script>
+<script type="text/javascript" src="../../../../scripts/multistep-form.js"></script>
+<script type="text/javascript" src="../../../../scripts/testgen/generate-tests-de.js"></script>
+
+</html>

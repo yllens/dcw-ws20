@@ -1,0 +1,5442 @@
+[
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kannst"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "du"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "erraten,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wo"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wohne?"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "In"
+        },
+        {
+            "gap_id": "gap_1",
+            "gap": true,
+            "correctAnswer": "ner",
+            "token": "mei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Stadt"
+        },
+        {
+            "gap_id": "gap_2",
+            "gap": true,
+            "correctAnswer": "ben",
+            "token": "le"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "fast"
+        },
+        {
+            "gap_id": "gap_3",
+            "gap": true,
+            "correctAnswer": "ei",
+            "token": "zw"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Millionen"
+        },
+        {
+            "gap_id": "gap_4",
+            "gap": true,
+            "correctAnswer": "chen",
+            "token": "Mens"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Eigentlich"
+        },
+        {
+            "gap_id": "gap_5",
+            "gap": true,
+            "correctAnswer": "chen",
+            "token": "spre"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "hier"
+        },
+        {
+            "gap_id": "gap_6",
+            "gap": true,
+            "correctAnswer": "le",
+            "token": "al"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Deutsch,"
+        },
+        {
+            "gap_id": "gap_7",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "ab"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "viele"
+        },
+        {
+            "gap_id": "gap_8",
+            "gap": true,
+            "correctAnswer": "ute",
+            "token": "Le"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sprechen"
+        },
+        {
+            "gap_id": "gap_9",
+            "gap": true,
+            "correctAnswer": "nen",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Dialekt."
+        },
+        {
+            "gap_id": "gap_10",
+            "gap": true,
+            "correctAnswer": "sen",
+            "token": "Die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Dialekt"
+        },
+        {
+            "gap_id": "gap_11",
+            "gap": true,
+            "correctAnswer": "u",
+            "token": "z"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "verstehen"
+        },
+        {
+            "gap_id": "gap_12",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sehr"
+        },
+        {
+            "gap_id": "gap_13",
+            "gap": true,
+            "correctAnswer": "ierig",
+            "token": "schw"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wenn"
+        },
+        {
+            "gap_id": "gap_14",
+            "gap": true,
+            "correctAnswer": "an",
+            "token": "m"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "noch"
+        },
+        {
+            "gap_id": "gap_15",
+            "gap": true,
+            "correctAnswer": "tsch",
+            "token": "Deu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "lernt."
+        },
+        {
+            "gap_id": "gap_16",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "I"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "gap_17",
+            "gap": true,
+            "correctAnswer": "trum",
+            "token": "Zen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "gap_18",
+            "gap": true,
+            "correctAnswer": "adt",
+            "token": "St"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "steht"
+        },
+        {
+            "gap_id": "gap_19",
+            "gap": true,
+            "correctAnswer": "ne",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "große"
+        },
+        {
+            "gap_id": "gap_20",
+            "gap": true,
+            "correctAnswer": "nd",
+            "token": "u"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sehr"
+        },
+        {
+            "gap_id": "gap_21",
+            "gap": true,
+            "correctAnswer": "te",
+            "token": "al"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kirche."
+        },
+        {
+            "gap_id": "gap_22",
+            "gap": true,
+            "correctAnswer": "herum",
+            "token": "Rund"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "stehen"
+        },
+        {
+            "gap_id": "gap_23",
+            "gap": true,
+            "correctAnswer": "utschen",
+            "token": "Pferdek"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_24",
+            "gap": true,
+            "correctAnswer": "uf",
+            "token": "a"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Touristen"
+        },
+        {
+            "gap_id": "gap_25",
+            "gap": true,
+            "correctAnswer": "ten",
+            "token": "war"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Nicht"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "so"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "weit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "davon"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "entfernt,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "steht"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "das"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Riesenrad."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "damit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "fährt,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "hat"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "einen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wunderbaren"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Blick"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "auf"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "alte"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Stadt."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Auf"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "anderen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Seite"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Stadt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "steht"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ein"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "großes"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Schloss."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Darin"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "hat"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "früher"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "schöne"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kaiserin"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gewohnt."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ging"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Park"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gerne"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "spazieren."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Heute"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gehen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dort"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "statt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kaiserin"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Touristen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "aus"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "aller"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Welt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ein"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "aus."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zoo"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gleich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "neben"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Park"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "älteste"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Europa."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Dort"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "leben"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Elefanten,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Pinguine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Löwen."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Na,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "kennst"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "du"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "meine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Stadt?"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wohne"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wien,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Hauptstadt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "von"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Österreich."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Noch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wenige"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Minuten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bis"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zum"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Anpfiff"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "des"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Fußballspiels"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "im"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Stadion."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ganz"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zürich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "freut"
+        },
+        {
+            "gap_id": "gap_26",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "si"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "seit"
+        },
+        {
+            "gap_id": "gap_27",
+            "gap": true,
+            "correctAnswer": "len",
+            "token": "vie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Tagen,"
+        },
+        {
+            "gap_id": "gap_28",
+            "gap": true,
+            "correctAnswer": "ss",
+            "token": "da"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "das"
+        },
+        {
+            "gap_id": "gap_29",
+            "gap": true,
+            "correctAnswer": "iel",
+            "token": "Sp"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "endlich"
+        },
+        {
+            "gap_id": "gap_30",
+            "gap": true,
+            "correctAnswer": "innt",
+            "token": "beg"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Das"
+        },
+        {
+            "gap_id": "gap_31",
+            "gap": true,
+            "correctAnswer": "dion",
+            "token": "Sta"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Letzigrund"
+        },
+        {
+            "gap_id": "gap_32",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "seit"
+        },
+        {
+            "gap_id": "gap_33",
+            "gap": true,
+            "correctAnswer": "hen",
+            "token": "Woc"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ausverkauft"
+        },
+        {
+            "gap_id": "gap_34",
+            "gap": true,
+            "correctAnswer": "nd",
+            "token": "u"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_35",
+            "gap": true,
+            "correctAnswer": "000",
+            "token": "34."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zuschauer"
+        },
+        {
+            "gap_id": "gap_36",
+            "gap": true,
+            "correctAnswer": "hen",
+            "token": "mac"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bereits"
+        },
+        {
+            "gap_id": "gap_37",
+            "gap": true,
+            "correctAnswer": "nen",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "riesigen"
+        },
+        {
+            "gap_id": "gap_38",
+            "gap": true,
+            "correctAnswer": "rm",
+            "token": "Lä"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Mit"
+        },
+        {
+            "gap_id": "gap_39",
+            "gap": true,
+            "correctAnswer": "em",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wetter"
+        },
+        {
+            "gap_id": "gap_40",
+            "gap": true,
+            "correctAnswer": "ben",
+            "token": "ha"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zuschauer"
+        },
+        {
+            "gap_id": "gap_41",
+            "gap": true,
+            "correctAnswer": "nd",
+            "token": "u"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Spieler"
+        },
+        {
+            "gap_id": "gap_42",
+            "gap": true,
+            "correctAnswer": "ück",
+            "token": "Gl"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "gap_43",
+            "gap": true,
+            "correctAnswer": "mel",
+            "token": "Him"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "gap_44",
+            "gap": true,
+            "correctAnswer": "au",
+            "token": "bl"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_45",
+            "gap": true,
+            "correctAnswer": "s",
+            "token": "e"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "gap_46",
+            "gap": true,
+            "correctAnswer": "0",
+            "token": "3"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Grad"
+        },
+        {
+            "gap_id": "gap_47",
+            "gap": true,
+            "correctAnswer": "rm",
+            "token": "wa"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Überall"
+        },
+        {
+            "gap_id": "gap_48",
+            "gap": true,
+            "correctAnswer": "cht",
+            "token": "rie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "es"
+        },
+        {
+            "gap_id": "gap_49",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "na"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gutem"
+        },
+        {
+            "gap_id": "gap_50",
+            "gap": true,
+            "correctAnswer": "sen",
+            "token": "Es"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zuschauer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nehmen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "noch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "letzten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Getränke"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Speisen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sich."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Jetzt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "kommen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "endlich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "22"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Spieler"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sowie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "3"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Schiedsrichter"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "auf"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "das"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Feld."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Blau"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "spielt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gegen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Rot."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wird"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "am"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "heutigen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Tag"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nach"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "90"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Minuten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sieger"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sein?"
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Gestern"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ging"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "meinem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sohn"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "meiner"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Frau"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "den"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Tierpark."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wir"
+        },
+        {
+            "gap_id": "gap_51",
+            "gap": true,
+            "correctAnswer": "ren",
+            "token": "fuh"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zuerst"
+        },
+        {
+            "gap_id": "gap_52",
+            "gap": true,
+            "correctAnswer": "it",
+            "token": "m"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "gap_53",
+            "gap": true,
+            "correctAnswer": "nbahn",
+            "token": "Eise"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bis"
+        },
+        {
+            "gap_id": "gap_54",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "a"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "den"
+        },
+        {
+            "gap_id": "gap_55",
+            "gap": true,
+            "correctAnswer": "ahnhof",
+            "token": "Hauptb"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Anschließend"
+        },
+        {
+            "gap_id": "gap_56",
+            "gap": true,
+            "correctAnswer": "egen",
+            "token": "sti"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wir"
+        },
+        {
+            "gap_id": "gap_57",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_58",
+            "gap": true,
+            "correctAnswer": "enbahn",
+            "token": "Straß"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_59",
+            "gap": true,
+            "correctAnswer": "ren",
+            "token": "fuh"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bis"
+        },
+        {
+            "gap_id": "gap_60",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "a"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_61",
+            "gap": true,
+            "correctAnswer": "stelle",
+            "token": "Halte"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zoologischer"
+        },
+        {
+            "gap_id": "gap_62",
+            "gap": true,
+            "correctAnswer": "ten",
+            "token": "Gar"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Der"
+        },
+        {
+            "gap_id": "gap_63",
+            "gap": true,
+            "correctAnswer": "park",
+            "token": "Tier"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "befindet"
+        },
+        {
+            "gap_id": "gap_64",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "si"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "oben"
+        },
+        {
+            "gap_id": "gap_65",
+            "gap": true,
+            "correctAnswer": "uf",
+            "token": "a"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "einem"
+        },
+        {
+            "gap_id": "gap_66",
+            "gap": true,
+            "correctAnswer": "inen",
+            "token": "kle"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Berg"
+        },
+        {
+            "gap_id": "gap_67",
+            "gap": true,
+            "correctAnswer": "nd",
+            "token": "u"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wir"
+        },
+        {
+            "gap_id": "gap_68",
+            "gap": true,
+            "correctAnswer": "nten",
+            "token": "kon"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_69",
+            "gap": true,
+            "correctAnswer": "rbare",
+            "token": "wunde"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Aussicht"
+        },
+        {
+            "gap_id": "gap_70",
+            "gap": true,
+            "correctAnswer": "uf",
+            "token": "a"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_71",
+            "gap": true,
+            "correctAnswer": "adt",
+            "token": "St"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_72",
+            "gap": true,
+            "correctAnswer": "en",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "See"
+        },
+        {
+            "gap_id": "gap_73",
+            "gap": true,
+            "correctAnswer": "eßen",
+            "token": "geni"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vor"
+        },
+        {
+            "gap_id": "gap_74",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kasse"
+        },
+        {
+            "gap_id": "gap_75",
+            "gap": true,
+            "correctAnswer": "sten",
+            "token": "mus"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wir"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "15"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Minuten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "anstehen,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "weil"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "an"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "diesem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sonntag"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "viele"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Parkbesucher"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "anwesend"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "waren."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Nachdem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wir"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "den"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Eintritt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bezahlt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "hatten,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "empfingen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "uns"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bereits"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ersten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Tiere,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Königspinguine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wohlgemerkt."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Es"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "war"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Fütterungszeit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wärter"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "warfen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "tote"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Fische"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "das"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Pinguingehege."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Für"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "viele"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Berufe"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "es"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "von"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vorteil,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zeitlang"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "im"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ausland"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "studieren"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "oder"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sogar"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "arbeiten."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Manchmal"
+        },
+        {
+            "gap_id": "gap_76",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "es"
+        },
+        {
+            "gap_id": "gap_77",
+            "gap": true,
+            "correctAnswer": "cht",
+            "token": "ni"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "einfach,"
+        },
+        {
+            "gap_id": "gap_78",
+            "gap": true,
+            "correctAnswer": "nen",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Platz"
+        },
+        {
+            "gap_id": "gap_79",
+            "gap": true,
+            "correctAnswer": "u",
+            "token": "z"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "finden,"
+        },
+        {
+            "gap_id": "gap_80",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "ab"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "es"
+        },
+        {
+            "gap_id": "gap_81",
+            "gap": true,
+            "correctAnswer": "bt",
+            "token": "gi"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "schon"
+        },
+        {
+            "gap_id": "gap_82",
+            "gap": true,
+            "correctAnswer": "it",
+            "token": "se"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "geraumer"
+        },
+        {
+            "gap_id": "gap_83",
+            "gap": true,
+            "correctAnswer": "it",
+            "token": "Ze"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Organisationen,"
+        },
+        {
+            "gap_id": "gap_84",
+            "gap": true,
+            "correctAnswer": "ie",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sich"
+        },
+        {
+            "gap_id": "gap_85",
+            "gap": true,
+            "correctAnswer": "uf",
+            "token": "a"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_86",
+            "gap": true,
+            "correctAnswer": "tionale",
+            "token": "interna"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vermittlung"
+        },
+        {
+            "gap_id": "gap_87",
+            "gap": true,
+            "correctAnswer": "on",
+            "token": "v"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Arbeitnehmern"
+        },
+        {
+            "gap_id": "gap_88",
+            "gap": true,
+            "correctAnswer": "lisiert",
+            "token": "spezia"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "haben."
+        },
+        {
+            "gap_id": "gap_89",
+            "gap": true,
+            "correctAnswer": "hon",
+            "token": "Sc"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "gap_90",
+            "gap": true,
+            "correctAnswer": "em",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vorfeld"
+        },
+        {
+            "gap_id": "gap_91",
+            "gap": true,
+            "correctAnswer": "lte",
+            "token": "sol"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "man"
+        },
+        {
+            "gap_id": "gap_92",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "si"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "auf"
+        },
+        {
+            "gap_id": "gap_93",
+            "gap": true,
+            "correctAnswer": "in",
+            "token": "e"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Leben"
+        },
+        {
+            "gap_id": "gap_94",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "einer"
+        },
+        {
+            "gap_id": "gap_95",
+            "gap": true,
+            "correctAnswer": "eren",
+            "token": "and"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kultur"
+        },
+        {
+            "gap_id": "gap_96",
+            "gap": true,
+            "correctAnswer": "reiten",
+            "token": "vorbe"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_97",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "si"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "gap_98",
+            "gap": true,
+            "correctAnswer": "age",
+            "token": "Fr"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "stellen,"
+        },
+        {
+            "gap_id": "gap_99",
+            "gap": true,
+            "correctAnswer": "as",
+            "token": "w"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "man"
+        },
+        {
+            "gap_id": "gap_100",
+            "gap": true,
+            "correctAnswer": "eit",
+            "token": "ber"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "von"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "seinen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eigenen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Gewohnheiten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Bedürfnissen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "aufzugeben"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "oder"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "verändern."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Einmal"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "seiner"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "neuen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Umgebung"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "angekommen,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "klare"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kommunikation"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "von"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vorteil,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "was"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "jedoch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nicht"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "heißt,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Grundregeln"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Höflichkeit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Rücksichtnahme"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "vernachlässigen."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Denn"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "von"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "kulturelle"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Unterschiede"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "lässt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nur"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "durch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gute"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vermittlung"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "profitieren."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Müritzsee"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "das"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "größte"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Gewässer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Deutschland."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Er"
+        },
+        {
+            "gap_id": "gap_101",
+            "gap": true,
+            "correctAnswer": "egt",
+            "token": "li"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "gap_102",
+            "gap": true,
+            "correctAnswer": "em",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Bundesland"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Mecklenburg"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vorpommern."
+        },
+        {
+            "gap_id": "gap_103",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "D"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Bodensee"
+        },
+        {
+            "gap_id": "gap_104",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "noch"
+        },
+        {
+            "gap_id": "gap_105",
+            "gap": true,
+            "correctAnswer": "ßer",
+            "token": "grö"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "als"
+        },
+        {
+            "gap_id": "gap_106",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Müritzsee."
+        },
+        {
+            "gap_id": "gap_107",
+            "gap": true,
+            "correctAnswer": "r",
+            "token": "E"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "liegt"
+        },
+        {
+            "gap_id": "gap_108",
+            "gap": true,
+            "correctAnswer": "och",
+            "token": "jed"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nicht"
+        },
+        {
+            "gap_id": "gap_109",
+            "gap": true,
+            "correctAnswer": "lett",
+            "token": "komp"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Deutschland."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Große"
+        },
+        {
+            "gap_id": "gap_110",
+            "gap": true,
+            "correctAnswer": "ile",
+            "token": "Te"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "des"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Bodensees"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "liegen"
+        },
+        {
+            "gap_id": "gap_111",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Schweiz"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_112",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Österreich."
+        },
+        {
+            "gap_id": "gap_113",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "I"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "gap_114",
+            "gap": true,
+            "correctAnswer": "mer",
+            "token": "Som"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "gap_115",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Müritzsee"
+        },
+        {
+            "gap_id": "gap_116",
+            "gap": true,
+            "correctAnswer": "in",
+            "token": "e"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "beliebtes"
+        },
+        {
+            "gap_id": "gap_117",
+            "gap": true,
+            "correctAnswer": "eziel",
+            "token": "Reis"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Er"
+        },
+        {
+            "gap_id": "gap_118",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "über"
+        },
+        {
+            "gap_id": "gap_119",
+            "gap": true,
+            "correctAnswer": ",5",
+            "token": "3"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kilometer"
+        },
+        {
+            "gap_id": "gap_120",
+            "gap": true,
+            "correctAnswer": "ng",
+            "token": "la"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "An"
+        },
+        {
+            "gap_id": "gap_121",
+            "gap": true,
+            "correctAnswer": "igen",
+            "token": "ein"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Stellen"
+        },
+        {
+            "gap_id": "gap_122",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "gap_123",
+            "gap": true,
+            "correctAnswer": "ee",
+            "token": "S"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bis"
+        },
+        {
+            "gap_id": "gap_124",
+            "gap": true,
+            "correctAnswer": "u",
+            "token": "z"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "750"
+        },
+        {
+            "gap_id": "gap_125",
+            "gap": true,
+            "correctAnswer": "ter",
+            "token": "Me"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "breit."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Gäste"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "fahren"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "aus"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ganz"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Deutschland"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "an"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "den"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "See."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Viele"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Gäste"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "kommen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "auch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nur"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "für"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "einen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Tag"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "an"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "den"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Müritzsee."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Bundeshauptstadt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Berlin"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "liegt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Auto"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nur"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "90"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Minuten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "entfernt."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Größere"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Städte"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "am"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ufer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "des"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sees"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sind"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Waren"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Röbel."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "meiner"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Familie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gehören"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "vier"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Personen."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Die"
+        },
+        {
+            "gap_id": "gap_126",
+            "gap": true,
+            "correctAnswer": "ter",
+            "token": "Mut"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bin"
+        },
+        {
+            "gap_id": "gap_127",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_128",
+            "gap": true,
+            "correctAnswer": "nn",
+            "token": "da"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gehört"
+        },
+        {
+            "gap_id": "gap_129",
+            "gap": true,
+            "correctAnswer": "rlich",
+            "token": "natü"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mein"
+        },
+        {
+            "gap_id": "gap_130",
+            "gap": true,
+            "correctAnswer": "nn",
+            "token": "Ma"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dazu."
+        },
+        {
+            "gap_id": "gap_131",
+            "gap": true,
+            "correctAnswer": "ir",
+            "token": "W"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "haben"
+        },
+        {
+            "gap_id": "gap_132",
+            "gap": true,
+            "correctAnswer": "ei",
+            "token": "zw"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kinder,"
+        },
+        {
+            "gap_id": "gap_133",
+            "gap": true,
+            "correctAnswer": "nen",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sohn,"
+        },
+        {
+            "gap_id": "gap_134",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sechs"
+        },
+        {
+            "gap_id": "gap_135",
+            "gap": true,
+            "correctAnswer": "hre",
+            "token": "Ja"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "alt"
+        },
+        {
+            "gap_id": "gap_136",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_137",
+            "gap": true,
+            "correctAnswer": "ne",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dreijährige"
+        },
+        {
+            "gap_id": "gap_138",
+            "gap": true,
+            "correctAnswer": "hter",
+            "token": "Toc"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wir"
+        },
+        {
+            "gap_id": "gap_139",
+            "gap": true,
+            "correctAnswer": "nen",
+            "token": "woh"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "gap_140",
+            "gap": true,
+            "correctAnswer": "nem",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "kleinen"
+        },
+        {
+            "gap_id": "gap_141",
+            "gap": true,
+            "correctAnswer": "us",
+            "token": "Ha"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mit"
+        },
+        {
+            "gap_id": "gap_142",
+            "gap": true,
+            "correctAnswer": "nem",
+            "token": "ei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Garten."
+        },
+        {
+            "gap_id": "gap_143",
+            "gap": true,
+            "correctAnswer": "rt",
+            "token": "Do"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "können"
+        },
+        {
+            "gap_id": "gap_144",
+            "gap": true,
+            "correctAnswer": "ie",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kinder"
+        },
+        {
+            "gap_id": "gap_145",
+            "gap": true,
+            "correctAnswer": "in",
+            "token": "e"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bisschen"
+        },
+        {
+            "gap_id": "gap_146",
+            "gap": true,
+            "correctAnswer": "elen",
+            "token": "spi"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Unser"
+        },
+        {
+            "gap_id": "gap_147",
+            "gap": true,
+            "correctAnswer": "hn",
+            "token": "So"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "kommt"
+        },
+        {
+            "gap_id": "gap_148",
+            "gap": true,
+            "correctAnswer": "ld",
+            "token": "ba"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "gap_149",
+            "gap": true,
+            "correctAnswer": "ie",
+            "token": "d"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Schule,"
+        },
+        {
+            "gap_id": "gap_150",
+            "gap": true,
+            "correctAnswer": "ere",
+            "token": "uns"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Tochter"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "geht"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "noch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zeit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "lang"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "den"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kindergarten."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Meine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kinder"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sind"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "an"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Nachmittag"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Hause."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "So"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "arbeite"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nur"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "halbtags."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Eigentlich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gehören"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "unserer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Familie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "auch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "noch"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Großeltern."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wohnen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nicht"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "uns."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "haben"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ein"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Haus"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "der"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Nähe."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Die"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Kinder"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gehen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "oft"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "besuchen."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Um"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gesund"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bleiben,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sollte"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "man"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "verschiedene"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Dinge"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "beachten."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Dazu"
+        },
+        {
+            "gap_id": "gap_151",
+            "gap": true,
+            "correctAnswer": "ört",
+            "token": "geh"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eine"
+        },
+        {
+            "gap_id": "gap_152",
+            "gap": true,
+            "correctAnswer": "unde",
+            "token": "ges"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ernährung."
+        },
+        {
+            "gap_id": "gap_153",
+            "gap": true,
+            "correctAnswer": "s",
+            "token": "E"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "gap_154",
+            "gap": true,
+            "correctAnswer": "htig",
+            "token": "wic"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "täglich"
+        },
+        {
+            "gap_id": "gap_155",
+            "gap": true,
+            "correctAnswer": "st",
+            "token": "Ob"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "gap_156",
+            "gap": true,
+            "correctAnswer": "üse",
+            "token": "Gem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "gap_157",
+            "gap": true,
+            "correctAnswer": "sen",
+            "token": "es"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zucker"
+        },
+        {
+            "gap_id": "gap_158",
+            "gap": true,
+            "correctAnswer": "nd",
+            "token": "u"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Fleisch"
+        },
+        {
+            "gap_id": "gap_159",
+            "gap": true,
+            "correctAnswer": "lten",
+            "token": "sol"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nur"
+        },
+        {
+            "gap_id": "gap_160",
+            "gap": true,
+            "correctAnswer": "ten",
+            "token": "sel"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "verspeist"
+        },
+        {
+            "gap_id": "gap_161",
+            "gap": true,
+            "correctAnswer": "den",
+            "token": "wer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Außerdem"
+        },
+        {
+            "gap_id": "gap_162",
+            "gap": true,
+            "correctAnswer": "ss",
+            "token": "mu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "man"
+        },
+        {
+            "gap_id": "gap_163",
+            "gap": true,
+            "correctAnswer": "el",
+            "token": "vi"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wasser"
+        },
+        {
+            "gap_id": "gap_164",
+            "gap": true,
+            "correctAnswer": "nken",
+            "token": "tri"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zwei"
+        },
+        {
+            "gap_id": "gap_165",
+            "gap": true,
+            "correctAnswer": "ter",
+            "token": "Li"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "pro"
+        },
+        {
+            "gap_id": "gap_166",
+            "gap": true,
+            "correctAnswer": "ag",
+            "token": "T"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sind"
+        },
+        {
+            "gap_id": "gap_167",
+            "gap": true,
+            "correctAnswer": "eal",
+            "token": "id"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ein"
+        },
+        {
+            "gap_id": "gap_168",
+            "gap": true,
+            "correctAnswer": "nder",
+            "token": "gesu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Körper"
+        },
+        {
+            "gap_id": "gap_169",
+            "gap": true,
+            "correctAnswer": "ucht",
+            "token": "bra"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ausreichend"
+        },
+        {
+            "gap_id": "gap_170",
+            "gap": true,
+            "correctAnswer": "gung",
+            "token": "Bewe"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Man"
+        },
+        {
+            "gap_id": "gap_171",
+            "gap": true,
+            "correctAnswer": "lte",
+            "token": "sol"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mindestens"
+        },
+        {
+            "gap_id": "gap_172",
+            "gap": true,
+            "correctAnswer": "ei",
+            "token": "zw"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mal"
+        },
+        {
+            "gap_id": "gap_173",
+            "gap": true,
+            "correctAnswer": "ro",
+            "token": "p"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Woche"
+        },
+        {
+            "gap_id": "gap_174",
+            "gap": true,
+            "correctAnswer": "ort",
+            "token": "Sp"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "treiben,"
+        },
+        {
+            "gap_id": "gap_175",
+            "gap": true,
+            "correctAnswer": "m",
+            "token": "u"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "fit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bleiben."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Viele"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Menschen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sagen,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dass"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "keine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zeit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "für"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sport"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "haben."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Oft"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "das"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "eine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ausrede."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Dabei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "kann"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sport"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Spaß"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "machen,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "denn"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Bewegung"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "tut"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gut."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Genauso"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wichtig"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ein"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "erholsamer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Schlaf."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Als"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Erwachsener"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sollte"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "man"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mindestens"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sieben"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Stunden"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "pro"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Tag"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "schlafen."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Vor"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "allem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sollte"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "man"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "auf"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Alkohol"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Zigaretten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "verzichten,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "um"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gesund"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bleiben."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Hallo"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Marion,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bin"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "es,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dein"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Daniel."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ich"
+        },
+        {
+            "gap_id": "gap_176",
+            "gap": true,
+            "correctAnswer": "ffe",
+            "token": "ho"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "es"
+        },
+        {
+            "gap_id": "gap_177",
+            "gap": true,
+            "correctAnswer": "ht",
+            "token": "ge"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dir"
+        },
+        {
+            "gap_id": "gap_178",
+            "gap": true,
+            "correctAnswer": "ut",
+            "token": "g"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ich"
+        },
+        {
+            "gap_id": "gap_179",
+            "gap": true,
+            "correctAnswer": "hne",
+            "token": "wo"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "jetzt"
+        },
+        {
+            "gap_id": "gap_180",
+            "gap": true,
+            "correctAnswer": "n",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Berlin,"
+        },
+        {
+            "gap_id": "gap_181",
+            "gap": true,
+            "correctAnswer": "er",
+            "token": "hi"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "habe"
+        },
+        {
+            "gap_id": "gap_182",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "einen"
+        },
+        {
+            "gap_id": "gap_183",
+            "gap": true,
+            "correctAnswer": "len",
+            "token": "tol"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Arbeitsplatz"
+        },
+        {
+            "gap_id": "gap_184",
+            "gap": true,
+            "correctAnswer": "nden",
+            "token": "gefu"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ich"
+        },
+        {
+            "gap_id": "gap_185",
+            "gap": true,
+            "correctAnswer": "in",
+            "token": "b"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sehr"
+        },
+        {
+            "gap_id": "gap_186",
+            "gap": true,
+            "correctAnswer": "klich",
+            "token": "glüc"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mit"
+        },
+        {
+            "gap_id": "gap_187",
+            "gap": true,
+            "correctAnswer": "ner",
+            "token": "mei"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "neuen"
+        },
+        {
+            "gap_id": "gap_188",
+            "gap": true,
+            "correctAnswer": "eit",
+            "token": "Arb"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Meine"
+        },
+        {
+            "gap_id": "gap_189",
+            "gap": true,
+            "correctAnswer": "kollegen",
+            "token": "Arbeits"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sind"
+        },
+        {
+            "gap_id": "gap_190",
+            "gap": true,
+            "correctAnswer": "hr",
+            "token": "se"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nett."
+        },
+        {
+            "gap_id": "gap_191",
+            "gap": true,
+            "correctAnswer": "ie",
+            "token": "S"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "haben"
+        },
+        {
+            "gap_id": "gap_192",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "mi"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mit"
+        },
+        {
+            "gap_id": "gap_193",
+            "gap": true,
+            "correctAnswer": "enen",
+            "token": "off"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Armen"
+        },
+        {
+            "gap_id": "gap_194",
+            "gap": true,
+            "correctAnswer": "angen",
+            "token": "empf"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Jeden"
+        },
+        {
+            "gap_id": "gap_195",
+            "gap": true,
+            "correctAnswer": "ag",
+            "token": "T"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "lerne"
+        },
+        {
+            "gap_id": "gap_196",
+            "gap": true,
+            "correctAnswer": "ch",
+            "token": "i"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "etwas"
+        },
+        {
+            "gap_id": "gap_197",
+            "gap": true,
+            "correctAnswer": "zu",
+            "token": "da"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Heute"
+        },
+        {
+            "gap_id": "gap_198",
+            "gap": true,
+            "correctAnswer": "ben",
+            "token": "ha"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sie"
+        },
+        {
+            "gap_id": "gap_199",
+            "gap": true,
+            "correctAnswer": "ir",
+            "token": "m"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gezeigt,"
+        },
+        {
+            "gap_id": "gap_200",
+            "gap": true,
+            "correctAnswer": "ie",
+            "token": "w"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Pakete"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "einem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Automaten"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "verschicke."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Das"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wirklich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "aufregend."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Meine"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Arbeit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ist"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "gut,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "mit"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "meiner"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Freundin"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "bin"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sehr"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "glücklich."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wir"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "wohnen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "jetzt"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zusammen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "in"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Berlin."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "arbeitet"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "als"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Verkäuferin."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Sie"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "arbeitet"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "immer"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "an"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Morgen,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ich"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "muss"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "oft"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "an"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "dem"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Abend"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "arbeiten."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wir"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "sehen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "uns"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "leider"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "nicht"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "so"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "oft."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Wir"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "genießen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "aber"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "jede"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Minute"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "zusammen"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "und"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "reden"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "viel"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "miteinander."
+        }
+    ]
+]

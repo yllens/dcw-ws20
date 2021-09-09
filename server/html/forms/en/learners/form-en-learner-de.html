@@ -1,0 +1,272 @@
+<!DOCTYPE html5>
+<html lang="en">
+<!-- Head -->
+
+<head>
+	<title>Data Collection on the Web</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link type="text/css" rel="stylesheet" href="../../../../css/styles.css">
+	<link type="text/css" rel="stylesheet" href="../../../../scripts/bootstrap-5.0.0-beta3/dist/css/bootstrap.min.css">
+</head>
+
+<!-- Body -->
+
+<body>
+	<!-- Navigation -->
+	<nav class="navbar bg-light">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="../../../index.html">Data Collection Project</a>
+			</div>
+			<ul class="nav">
+				<li class="nav-item"><a href="../../../index.html" class="nav-link">Home</a></li>
+				<li class="nav-item"><a href="../../../info.html" class="nav-link">Description</a></li>
+				<li class="nav-item"><a href="../../../contact.html" class="nav-link">Contact</a></li>
+			</ul>
+		</div>
+	</nav>
+
+	<!-- Content -->
+	<div class="container">
+		<form id="dataForm-de-learner" name="dataForm" action="/submit-form-de-learner" method="POST">
+			<!-- Tabs indicating form steps -->
+			<div class="form-steps">
+				<span class="formStep"></span> <!-- Intro -->
+				<span class="formStep"></span> <!-- Personal details -->
+				<span class="formStep"></span> <!-- Survey intro -->
+				<span class="formStep"></span> <!-- Text 1 -->
+				<span class="formStep"></span> <!-- Text 2 -->
+				<span class="formStep"></span> <!-- Text 3 -->
+				<span class="formStep"></span> <!-- Text 4 -->
+				<span class="formStep"></span> <!-- Text 5 -->
+				<span class="formStep"></span> <!-- Text 6 -->
+				<span class="formStep"></span> <!-- Text 7 -->
+				<span class="formStep"></span> <!-- Text 8 -->
+				<span class="formStep"></span> <!-- Submission confirmation -->
+			</div>
+
+			<!-- INTRO TAB -->
+			<div class="tab">
+				<br><br>
+				<h4>Terms and conditions</h4>
+				Please read the terms and conditions of participation carefully.
+				<br><br>
+				<h6>Information and purpose</h6>
+				<p>
+					The study in which you are asked to participate focuses on subjective judgements of the difficulty
+					of short English texts.
+				</p>
+				<p>
+				<p>
+					You will first be asked to fill in a short questionnaire about your language background. Then, you
+					will be shown 8 randomly selected short texts in English in which, starting from the second
+					sentence, half of every second word will be missing. Please fill in the missing halves and answer
+					the questions below the text.
+				</p>
+				<p>
+					Please ensure that you are in a quiet environment. This survey will take about 45 minutes to
+					complete.
+				</p>
+
+				<h6>Compensation</h6>
+				<p>None</p>
+
+				<h6>Risks</h6>
+				<p>
+					There are no known risks associated with participating in
+					this study.
+				</p>
+
+				<h6>Your rights to participate, say no, or withdraw</h6>
+
+				<p>
+				<div class="form-check">
+					<label id="tnc" class="form-check-label req-label">
+						By checking this box, I understand that
+						participation in this study is completely voluntary and I may withdraw from the study at any
+						time and with no penalty.
+						If I change my mind and no longer want to participate in this study, my decision will not
+						affect my grades, classes, or anything else at the University of Tübingen.
+					</label>
+					<input id="tnc" class="form-check-input req-field" type="checkbox"
+						oninput="hideErrorMsg(); this.className='form-check-input req-field'" required />
+					<div id="error" class="invalid-feedback">You must agree before proceeding.</div>
+				</div>
+				</p>
+
+				<h6>Confidentiality</h6>
+				<p>All information collected is completely confidential and anonymised, and will be used only in the
+					context of this research. Test results will not be shared
+					with anyone but the experimenters.</p>
+
+				<p>If you have any questions or concerns, please contact xxx (<a href="#">xxx@uni-tuebingen.de</a> or
+					07071-XX-XXXXX).
+				</p>
+
+				<p>
+					<b>By agreeing to the terms and conditions, you are voluntarily agreeing to participate in this
+						study.</b>
+				</p>
+
+				<!-- Terms & conditions -->
+				<div class="form-check">
+					<label id="tnc" class="form-check-label req-label">I agree to the terms and conditions.</label>
+					<input id="tnc" class="form-check-input req-field" type="checkbox"
+						oninput="hideErrorMsg(); this.className='form-check-input req-field'" required />
+					<div id="error" class="invalid-feedback">You must agree before proceeding.</div>
+				</div>
+			</div>
+
+			<!-- PERSONAL DETAILS TAB -->
+			<div class="tab">
+				<br><br>
+				<h4>Personal details</h4>
+				<p>
+					Please fill out the following form. <br /><br />
+					<span style="color:#CB444A;">*</span> <span style="font-size:small;">Required field</span>
+				</p>
+
+				<!-- Status -->
+				<div class="form-group row mb-2">
+					<label for="proficiencyLevel" class="col-sm-4 col-form-label req-label">
+						What is your German proficiency level?
+					</label>
+					<div class="col-sm-4" select-style>
+						<select class="form-control req-field" name="proficiencyLevel"
+							oninput="this.className='form-control req-field'" required>
+							<option value="" disabled selected>Select a level</option>
+							<option value="unsure">Unsure</option>
+							<option value="learner">L2 learner</option>
+							<option value="heritage">Heritage speaker</option>
+							<option value="native">Native speaker</option>
+						</select>
+						<br>
+						<p style="font-size:10px">Heritage language: the language that you grew up speaking at home if it was not the same language that you spoke at school</p>
+					</div>
+				</div>
+
+				<!-- Native language(s) -->
+				<div class="form-group row mb-2">
+					<label for="nativeLang" class="col-sm-4 col-form-label req-label">
+						What is your native language?
+					</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control req-field" name="nativeLang"
+							oninput="this.className='form-control req-field'" required />
+					</div>
+				</div>
+
+				<!-- Other language(s) -->
+				<div class="form-group row mb-2">
+					<label for="otherLang" class="col-sm-4 col-form-label">
+						Do you speak any other language(s)?
+					</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control" name="otherLang"
+							oninput="this.className='form-control'"/>
+					</div>
+				</div>
+
+				<!-- Teaching duration -->
+				<div class="form-group row mb-2">
+					<label for="learningDuration" class="col-sm-4 col-form-label">
+						If you are not a native speaker, how long have you been learning German?
+					</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control" name="learningDuration">
+					</div>
+				</div>
+
+				<!-- Learning methods -->
+				<div class="form-group row mb-2">
+					<label for="learningMethods" class="col-sm-4 col-form-label">
+						If you are not a native speaker, which main method(s) did you use to
+						learn German (self-taught, formal classes, via the internet, etc.)?
+					</label>
+					<div class="col-sm-4">
+						<input type="text" class="form-control" name="learningMethods">
+					</div>
+				</div>
+
+				<!-- Education -->
+				<div class="form-group row mb-2">
+					<label for="education" class="col-sm-4 col-form-label req-label">
+						What is your highest completed level of education? Please select the one which is most applicable.
+					</label>
+					<div class="col-sm-4" select-style>
+						<select class="form-control req-field" name="education"
+							oninput="this.className='form-control req-field'" required>
+							<option value="" disabled selected>Select a level</option>
+							<option value="primaryschool">Primary school</option>
+							<option value="highschool">High school</option>
+							<option value="vocationaltraining">Vocational training</option>
+							<option value="undergraduate">Undergraduate</option>
+							<option value="postgraduate">Postgraduate</option>
+							<option value="phd">PhD</option>
+						</select>
+					</div>
+				</div>
+
+				<!-- C-test -->
+				<div class="form-group row mb-2">
+					<label for="ctest" class="col-sm-4 col-form-label req-label">Have you ever sat a C-test?</label>
+					<div class="col-sm-4" select-style>
+						<select class="form-control req-field" name="ctest"
+							oninput="this.className='form-control req-field'" required>
+							<option value="" disabled selected>Select an option</option>
+							<option value="yes">Yes</option>
+							<option value="no">No</option>
+							<option value="dontKnow">I don't know</option>
+						</select>
+					</div>
+				</div>
+			</div>
+
+			<!-- SURVEY INTRO TAB -->
+			<div class="tab">
+				<br><br>
+				<h4>Survey</h4>
+				<p>
+					In the following section you will be shown 8 short texts, one at a time. Please read the text, fill
+					in the blanks, and answer the questions. In case of questions that are not indicated as being
+					compulsory, you may leave them blank. However, we recommend that you answer every question to the
+					best of your ability.
+				</p>
+			</div>
+
+			<!-- TEXTS -->
+			<div id="gapTest">
+			</div>
+
+			<!-- END TAB -->
+			<div class="tab">
+				<div class="form-group row mb-2">
+					Are you sure you want to submit?
+				</div>
+			</div>
+
+			<!-- NAVIGATION BUTTONS -->
+			<div class="row mb-2" style="margin-top:2em;">
+				<div class="col-sm-10">
+					<input id="prevButton" type="button" class="btn btn-secondary" value="←"
+						onclick="nextTab(-1)">
+					<input id="nextButton" type="button" class="btn btn-outline-primary" value="→"
+						onclick="nextTab(1)">
+				</div>
+			</div>
+
+		</form>
+	</div>
+</body>
+
+<!-- Footer -->
+<footer id="page-footer" class="footer">&#169; 2021 University of Tübingen</footer>
+
+<!-- Scripts -->
+<script type="text/javascript" src="../../../../scripts/bootstrap-5.0.0-beta3/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../../../../scripts/navigation.js"></script>
+<script type="text/javascript" src="../../../../scripts/multistep-form.js"></script>
+<script type="text/javascript" src="../../../../scripts/testgen/generate-tests-de.js"></script>
+
+</html>
