@@ -1,2 +1,18 @@
-# dcw-ws20
-Data Collection on the Web WS 2020-21
+# Data Collection on the Web WS 2020-21
+
+This repository contains all of the front end and back end files for the Data Collection WS 2020-21 project.
+
+## Front end
+
+The `server` directory is the front-end containing all of the JavaScript and HTML code, as well as the input text files for generating C-tests on the webpage in the `texts` directory and the JSON files for saving the form output in the `data` directory.
+
+Usage instructions:
+
+* cd into the `server` directory containing the `start-server` script
+* run `node start-server.js` (note: this code was developed and tested using Node.js v15.14.0)
+* homepage: http://localhost:3022/html/index.html
+
+## Back end
+
+The `gapper` directory contains the back end Python code used to generate the JSON files containing C-tests.
+
