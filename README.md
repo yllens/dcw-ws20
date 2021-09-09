@@ -21,3 +21,10 @@ Usage instruction:
 
 * use main.py by specifying the arguments required according to the documention of the main() function
 
+## Text resources:
+
+German:  GermanNet   https://german.net/reading/ \
+English: Lingua  https://lingua.com/english/reading/ \
+         BC  https://learnenglishteens.britishcouncil.org/skills/reading/ \
+         LingPress https://linguapress.com/advanced/ \
+Russian: Brigham Young University text corpus provided by Rob Reynolds (https://github.com/reynoldsnlp/)
