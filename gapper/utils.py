@@ -1,3 +1,9 @@
+"""
+Author: yllens
+Last edited: 24th April 2021 
+Desription: Helper functons getting file paths and generating file paths.
+"""
+
 import os
 import json
 
