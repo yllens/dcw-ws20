@@ -19,5 +19,5 @@ It also offers the option to run a linguistic complexity analysis. Note that Dat
 
 Usage instruction:
 
-* use main.py by specifying the arguments required and specified in the documention of the main() function
+* use main.py by specifying the arguments required according to the documention of the main() function
 
