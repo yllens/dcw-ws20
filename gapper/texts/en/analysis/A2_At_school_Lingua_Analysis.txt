@@ -1,0 +1,47 @@
+-----------------------------------------------------------
+	COMPLEXITY AND READABILITY REPORT FOR A2_At
+-----------------------------------------------------------
+
+	GENERAL STATISTICS
+---------------------------
+- Total number of words:	 78
+- Total number of sentences: 8
+- Total number of gaps: 25
+- Named entities: ['Lucas', 'Lucas']
+- Average word length (in letters):   4.23
+- Average sentence length (in words): 9.75
+
+	READABILITY FORMULAS
+---------------------------
+- Flesch-Kincaid grade level: 3.62
+
+How to interpret FKG:
+FKG corresponds to U.S. school grade levels (1st-12th).
+
+- Flesch reading ease score: 89.12
+
+How to interpret FRE:
+SCORE			GRADE LEVEL			NOTES
+100.00–90.00	5th grade			Very easy to read.
+90.0–80.0		6th grade			Easy to read.
+80.0–70.0		7th grade			Fairly easy to read.
+70.0–60.0		8th & 9th grade		Plain en.
+60.0–50.0		10th to 12th grade	Fairly difficult to read.
+50.0–30.0		College				Difficult to read.
+30.0–10.0		College graduate	Very difficult to read. Best understood by university graduates.
+10.0–0.0		Professional		Extremely difficult to read. Best understood by university graduates.
+
+	TYPE-TOKEN RATIOS
+---------------------------
+- TTR (all words):	4.24
+- TTR (nouns):		3.05
+- TTR (verbs):		1.84
+- TTR (adjectives):	1.15
+- TTR (adverbs):	1.22
+
+	OTHER STATISTICS
+---------------------------
+- Lexical density:			0.6
+- Noun-pronoun ratio:		23.08
+- Pronoun ratio:			7.69
+- Polysyllabic words ratio:	1.0

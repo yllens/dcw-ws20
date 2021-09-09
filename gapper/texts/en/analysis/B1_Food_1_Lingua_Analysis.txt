@@ -1,0 +1,47 @@
+-----------------------------------------------------------
+	COMPLEXITY AND READABILITY REPORT FOR B1_Food
+-----------------------------------------------------------
+
+	GENERAL STATISTICS
+---------------------------
+- Total number of words:	 70
+- Total number of sentences: 4
+- Total number of gaps: 25
+- Named entities: (none)
+- Average word length (in letters):   5.13
+- Average sentence length (in words): 17.5
+
+	READABILITY FORMULAS
+---------------------------
+- Flesch-Kincaid grade level: 14.53
+
+How to interpret FKG:
+FKG corresponds to U.S. school grade levels (1st-12th).
+
+- Flesch reading ease score: 51.47
+
+How to interpret FRE:
+SCORE			GRADE LEVEL			NOTES
+100.00–90.00	5th grade			Very easy to read.
+90.0–80.0		6th grade			Easy to read.
+80.0–70.0		7th grade			Fairly easy to read.
+70.0–60.0		8th & 9th grade		Plain en.
+60.0–50.0		10th to 12th grade	Fairly difficult to read.
+50.0–30.0		College				Difficult to read.
+30.0–10.0		College graduate	Very difficult to read. Best understood by university graduates.
+10.0–0.0		Professional		Extremely difficult to read. Best understood by university graduates.
+
+	TYPE-TOKEN RATIOS
+---------------------------
+- TTR (all words):	4.39
+- TTR (nouns):		2.74
+- TTR (verbs):		2.27
+- TTR (adjectives):	1.58
+- TTR (adverbs):	1.22
+
+	OTHER STATISTICS
+---------------------------
+- Lexical density:			0.66
+- Noun-pronoun ratio:		0.0
+- Pronoun ratio:			0.0
+- Polysyllabic words ratio:	10.0
