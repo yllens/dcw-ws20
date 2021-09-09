@@ -25,7 +25,7 @@ Usage instruction:
 
 * German:  GermanNet   https://german.net/reading/
 * English:
-<pre> Lingua  https://lingua.com/english/reading/ <\pre>
-<pre> BC  https://learnenglishteens.britishcouncil.org/skills/reading/ <\pre>
-<pre>LingPress https://linguapress.com/advanced/ <\pre>
+   * Lingua  https://lingua.com/english/reading/
+   * BC  https://learnenglishteens.britishcouncil.org/skills/reading/
+   * LingPress https://linguapress.com/advanced/
 * Russian: Brigham Young University text corpus provided by Rob Reynolds (https://github.com/reynoldsnlp/)
