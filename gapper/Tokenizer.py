@@ -1,3 +1,9 @@
+"""
+Author: yllens, sen31196
+Last edited: 7th Spetember 2021 
+Desription: Tokenising raw texts and saving tokens to text file.
+"""
+
 import stanza
 import subprocess
 
