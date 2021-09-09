@@ -1,0 +1,143 @@
+<!DOCTYPE html5>
+<html lang="en">
+    <!-- Head -->
+	<head>
+		<title>Data Collection on the Web</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link type="text/css" rel="stylesheet" href="../css/styles.css">
+		<link type="text/css" rel="stylesheet" href="../scripts/bootstrap-5.0.0-beta3/dist/css/bootstrap.min.css">
+	</head>
+
+    <!-- Body -->
+	<body>
+        <!-- Navigation -->
+		<nav class="navbar bg-light">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="./index.html">Data Collection Project</a>
+				</div>
+				<ul class="nav">
+					<li class="nav-item"><a href="./index.html" class="nav-link">Home</a></li>
+					<li class="nav-item"><a href="./info.html" class="nav-link">Description</a></li>
+					<li class="nav-item"><a href="./contact.html" class="nav-link">Contact</a></li>
+				</ul>
+			</div>
+		</nav>
+
+        <!-- Content -->
+		<div class="container">
+			<div>
+				<h4>Description</h4>
+				<p><b>Group members:</b> Sarah and Nelly</p>
+
+				<p>
+				Data collection is an important aspect of linguistic research. In the field of linguistic
+				complexity analysis in particular, especially important is the collection of data from human
+				evaluators judging the complexity of a text. This can be used to supplement and provide a
+				point of comparison with quantitative computational analysis. Using a survey-style web-based
+				platform for such purposes would make the process more effective for the following reasons:
+				</p>
+
+				<ol>
+					<li>
+					All of the data is collected in one place and organised in a consistent format,
+					making it easier for the text evaluators to provide the required analysis and for 
+					the researchers to efficiently process the feedback to extract relevant
+					information and perform statistical analysis.
+					</li>
+
+					<li>
+					A web-based platform is easily accessible by anyone with an internet connection
+					and browser. This means that a wider range of evaluators can be reached,
+					increasing the amount of data collected while still being able to sort it
+					demographically (either using provided basic demographic data such as age, native
+					language, or education level, or simply by restricting access to a certain group
+					of people such as staff or students from a particular department in a university).	
+					</li>
+
+					<li>
+					An online platform also allows researchers to be mindful of ethical issues, as the
+					collected data can be anonymised and stored on a secure server.
+					</li>
+				</ol>
+
+				<p>
+				Our goal is to implement an online survey platform for the collection of human judgements of
+				the linguistic complexity of various texts. This platform will contain fields to collect
+				basic demographic data about the evaluator, as well as the text to be analysed and fields 
+				under each text for collecting answers to multiple choice questions regarding text
+				difficulty.
+				</p>
+
+				<p>
+				We will deploy a sample platform using texts (both paragraphs and individual sentences)
+				extracted from corresponding standard and simple Wikipedia pages to gather data pertaining
+				to human judgements of the difficulty of each text to see how much more complex the language
+				used in standard Wikipedia is compared to simple Wikipedia. This data could then be used in
+				an analysis of the linguistic complexity and readability of the two versions of Wikipedia to
+				compare human judgements with computationally-calculated complexity scores.
+				</p>
+			</div>
+	
+			<div>
+				<h4>Methods</h4>
+				<p>
+				The kinds of questions that we can include in the survey are:
+				</p>
+
+				<ol>
+					<li>Ranking of a single text</li>
+					<li>Given that 1 = very easy and 10 = very difficult, how difficult is this text to read on a scale from 1-10?</li>
+					<li>Ranking a set of given texts in order of how complex they are</li>
+					<li>Multiple choice selection of vocabulary quality/variety measures</li>
+						<ul>
+							<li>The vocabulary that this text uses is:
+								[very simple] [somewhat simple] [sophisticated] [very sophisticated]
+							</li>
+							<li>The range of vocabulary that this text uses is:
+								[very limited (lots of repeated words)] [somewhat limited] [varied] [very varied]
+							</li>	
+						</ul>
+					<li>Multiple choice selection of sentence complexity measures</li>
+						<ul>
+							<li>The sentence/s in this text is/are:
+								[very simple] [somewhat simple] [complex (long, a lot of subordination, etc.)]
+								[very sophisticated (very long, very complex syntactic constructions, etc.)]
+							</li>
+						</ul>
+				</ol>
+			</div>
+
+			<div>
+				<h4>References:</h4>
+				<p>
+					Connor-Linton, J., Polio, C. 2014. Comparing perspectives on L2 writing: Multiple analyses of a
+					common corpus. Journal of Second Language Writing 26, 1-9.
+					DOI: https://doi.org/10.1016/j.jslw.2014.09.002
+				</p>
+				<p>
+					Klare, G.R. 1976. Judging readability. Instructional Science 5, 55–61.
+					DOI: https://doi.org/10.1007/BF00120230
+				</p>
+				<p>
+					Lu, X. 2011. A corpus-based evaluation of syntactic complexity measures as indices of
+					college-level ESL writers’ language development. TESOL Quarterly 45(1), 36-62.
+					DOI: 10.5054/tq.2011.240859
+				</p>
+				<p>
+					Lu, X. 2017. Automated measurement of syntactic complexity in corpus-based L2 writing research
+					and implications for writing assessment. Language Testing, 34(4), 493–511.
+					DOI: https://doi.org/10.1177/0265532217710675
+				</p>
+			</div>
+		</div>
+	</body>
+
+	<!-- Footer -->
+	<footer id="page-footer" class="footer">&#169; 2020 University of Tübingen</footer>
+
+	<script type="text/javascript" src="../scripts/bootstrap-5.0.0-beta3/dist/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../start-server.js"></script>
+	
+</html>

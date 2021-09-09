@@ -1,0 +1,7518 @@
+[
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Политическая"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "система"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "общества"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "представляет"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "собой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "целостную"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": ""
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "совокупность"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "государственных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "негосударственных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "организаций"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "отношений,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "посредством"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "которых"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "формируется"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "осуществляется"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политическая"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "власть."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Непосредственным"
+        },
+        {
+            "gap_id": "gap_1",
+            "gap": true,
+            "correctAnswer": "ектом",
+            "token": "субъ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "осуществления"
+        },
+        {
+            "gap_id": "gap_2",
+            "gap": true,
+            "correctAnswer": "сти",
+            "token": "вла"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "является"
+        },
+        {
+            "gap_id": "gap_3",
+            "gap": true,
+            "correctAnswer": "арство",
+            "token": "госуд"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "В"
+        },
+        {
+            "gap_id": "gap_4",
+            "gap": true,
+            "correctAnswer": "менном",
+            "token": "совре"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "обществе"
+        },
+        {
+            "gap_id": "gap_5",
+            "gap": true,
+            "correctAnswer": "низм",
+            "token": "меха"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "осуществления"
+        },
+        {
+            "gap_id": "gap_6",
+            "gap": true,
+            "correctAnswer": "ческой",
+            "token": "полити"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "власти"
+        },
+        {
+            "gap_id": "gap_7",
+            "gap": true,
+            "correctAnswer": "чает",
+            "token": "вклю"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "помимо"
+        },
+        {
+            "gap_id": "gap_8",
+            "gap": true,
+            "correctAnswer": "арства",
+            "token": "госуд"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_9",
+            "gap": true,
+            "correctAnswer": "гие",
+            "token": "дру"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политические"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_10",
+            "gap": true,
+            "correctAnswer": "твенно",
+            "token": "общес"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политические"
+        },
+        {
+            "gap_id": "gap_11",
+            "gap": true,
+            "correctAnswer": "изации",
+            "token": "орган"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "например,"
+        },
+        {
+            "gap_id": "gap_12",
+            "gap": true,
+            "correctAnswer": "тии",
+            "token": "пар"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "профессиональные,"
+        },
+        {
+            "gap_id": "gap_13",
+            "gap": true,
+            "correctAnswer": "ежные",
+            "token": "молод"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "женские,"
+        },
+        {
+            "gap_id": "gap_14",
+            "gap": true,
+            "correctAnswer": "ические",
+            "token": "эколог"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "объединения."
+        },
+        {
+            "gap_id": "gap_15",
+            "gap": true,
+            "correctAnswer": "ческая",
+            "token": "Полити"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "система"
+        },
+        {
+            "gap_id": "gap_16",
+            "gap": true,
+            "correctAnswer": "ого",
+            "token": "люб"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "современного"
+        },
+        {
+            "gap_id": "gap_17",
+            "gap": true,
+            "correctAnswer": "ства",
+            "token": "обще"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "состоит"
+        },
+        {
+            "gap_id": "gap_18",
+            "gap": true,
+            "correctAnswer": "з",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "нескольких"
+        },
+        {
+            "gap_id": "gap_19",
+            "gap": true,
+            "correctAnswer": "истем",
+            "token": "подс"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Прежде"
+        },
+        {
+            "gap_id": "gap_20",
+            "gap": true,
+            "correctAnswer": "его",
+            "token": "вс"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "выделяется"
+        },
+        {
+            "gap_id": "gap_21",
+            "gap": true,
+            "correctAnswer": "ационная",
+            "token": "организ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "подсистема,"
+        },
+        {
+            "gap_id": "gap_22",
+            "gap": true,
+            "correctAnswer": "ающая",
+            "token": "включ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "непосредственных"
+        },
+        {
+            "gap_id": "gap_23",
+            "gap": true,
+            "correctAnswer": "ектов",
+            "token": "субъ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политической"
+        },
+        {
+            "gap_id": "gap_24",
+            "gap": true,
+            "correctAnswer": "зни",
+            "token": "жи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "общества"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_25",
+            "gap": true,
+            "correctAnswer": "де",
+            "token": "ви"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "государства,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "партий,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "общественно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политических"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "организаций"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "движений."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Государство"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "партии"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "являются"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сугубо"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политическими"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "по"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "своему"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "назначению."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Другие"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "организации"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "(профессиональные,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "молодежные,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "культурные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "т.д.)"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "вынуждены"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "участвовать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политической"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "жизни,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проводя"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "свои"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "интересы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "через"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "государственные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "решения."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вторая"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "подсистема"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "культурно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "идеологическая."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Так,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "партии"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "руководствуются"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "определенными"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "идеологиями,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "то"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "есть"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "совокупностью"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "теоретических"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "идей,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "выражающих"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "интересы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "социальных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "групп."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Москва"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "является"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "крупнейшим"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экономическим,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "политическим"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "научным"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "центром"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "России."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "С"
+        },
+        {
+            "gap_id": "gap_26",
+            "gap": true,
+            "correctAnswer": "90",
+            "token": "19"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "года"
+        },
+        {
+            "gap_id": "gap_27",
+            "gap": true,
+            "correctAnswer": "ква",
+            "token": "Мос"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "стала"
+        },
+        {
+            "gap_id": "gap_28",
+            "gap": true,
+            "correctAnswer": "анным",
+            "token": "призн"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "лидером"
+        },
+        {
+            "gap_id": "gap_29",
+            "gap": true,
+            "correctAnswer": "менных",
+            "token": "совре"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "российских"
+        },
+        {
+            "gap_id": "gap_30",
+            "gap": true,
+            "correctAnswer": "ических",
+            "token": "эконом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "реформ."
+        },
+        {
+            "gap_id": "gap_31",
+            "gap": true,
+            "correctAnswer": "а",
+            "token": "З"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "прошедшие"
+        },
+        {
+            "gap_id": "gap_32",
+            "gap": true,
+            "correctAnswer": "ды",
+            "token": "го"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_33",
+            "gap": true,
+            "correctAnswer": "омике",
+            "token": "экон"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "города"
+        },
+        {
+            "gap_id": "gap_34",
+            "gap": true,
+            "correctAnswer": "зошли",
+            "token": "прои"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "структурные"
+        },
+        {
+            "gap_id": "gap_35",
+            "gap": true,
+            "correctAnswer": "иги",
+            "token": "сдв"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "доля"
+        },
+        {
+            "gap_id": "gap_36",
+            "gap": true,
+            "correctAnswer": "ленного",
+            "token": "промыш"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "производства"
+        },
+        {
+            "gap_id": "gap_37",
+            "gap": true,
+            "correctAnswer": "лицы",
+            "token": "сто"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "неуклонно"
+        },
+        {
+            "gap_id": "gap_38",
+            "gap": true,
+            "correctAnswer": "алась",
+            "token": "сниж"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_39",
+            "gap": true,
+            "correctAnswer": "о",
+            "token": "т"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "время"
+        },
+        {
+            "gap_id": "gap_40",
+            "gap": true,
+            "correctAnswer": "ак",
+            "token": "к"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "объём"
+        },
+        {
+            "gap_id": "gap_41",
+            "gap": true,
+            "correctAnswer": "ческих",
+            "token": "коммер"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "услуг"
+        },
+        {
+            "gap_id": "gap_42",
+            "gap": true,
+            "correctAnswer": "ков",
+            "token": "бан"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "акционерных"
+        },
+        {
+            "gap_id": "gap_43",
+            "gap": true,
+            "correctAnswer": "еств",
+            "token": "общ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_44",
+            "gap": true,
+            "correctAnswer": "рж",
+            "token": "би"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "постоянно"
+        },
+        {
+            "gap_id": "gap_45",
+            "gap": true,
+            "correctAnswer": "ивался",
+            "token": "увелич"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "В"
+        },
+        {
+            "gap_id": "gap_46",
+            "gap": true,
+            "correctAnswer": "оге",
+            "token": "ит"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Москва"
+        },
+        {
+            "gap_id": "gap_47",
+            "gap": true,
+            "correctAnswer": "чно",
+            "token": "про"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "занимает"
+        },
+        {
+            "gap_id": "gap_48",
+            "gap": true,
+            "correctAnswer": "ующие",
+            "token": "лидир"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "позиции"
+        },
+        {
+            "gap_id": "gap_49",
+            "gap": true,
+            "correctAnswer": "о",
+            "token": "п"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "количеству"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_50",
+            "gap": true,
+            "correctAnswer": "ингу",
+            "token": "рейт"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "коммерческих"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "структур,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "занимающихся"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экспортом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "импортом,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "оптовой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "розничной"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "торговлей."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Велика"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "роль"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "банковского"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "биржевого"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "секторов"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экономики"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "развитии"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "российских"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "финансовых"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "рынков."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Расширяются"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "внешнеэкономические"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "связи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "московских"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "предприятий:"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "устанавливаются"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "прямые"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "производственные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "научно-технические"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "контакты"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "зарубежными"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "партнёрами,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "создаются"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "совместные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "предприятия."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Фирмы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "более"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "40"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "зарубежных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "стран"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "являются"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "партнёрами"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "московских"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "предприятий."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "На"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "основе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "соглашений"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "об"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экономическом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "научно-техническом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сотрудничестве"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "правительство"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Москвы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "установило"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "деловые"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "контакты"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "крупнейшими"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "городами"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мира:"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Берлином,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Варшавой,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Веной,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Монреалем,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Токио,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Пекином,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Хельсинки"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "т.д."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Стали"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "разрабатываться"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "крупномасштабные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проекты"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экономического"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сотрудничества,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "которые"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "оказывают"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "влияние"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "российскую"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экономику"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "целом."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Слово"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«экология»"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "знают"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сейчас"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "все"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "люди."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Как"
+        },
+        {
+            "gap_id": "gap_51",
+            "gap": true,
+            "correctAnswer": "вило",
+            "token": "пра"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "его"
+        },
+        {
+            "gap_id": "gap_52",
+            "gap": true,
+            "correctAnswer": "ьзуют",
+            "token": "испол"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "для"
+        },
+        {
+            "gap_id": "gap_53",
+            "gap": true,
+            "correctAnswer": "ристики",
+            "token": "характе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "условий"
+        },
+        {
+            "gap_id": "gap_54",
+            "gap": true,
+            "correctAnswer": "вания",
+            "token": "прожи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«хорошая"
+        },
+        {
+            "gap_id": "gap_55",
+            "gap": true,
+            "correctAnswer": "хая",
+            "token": "(пло"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экология»,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«в"
+        },
+        {
+            "gap_id": "gap_56",
+            "gap": true,
+            "correctAnswer": "шем",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "районе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "–"
+        },
+        {
+            "gap_id": "gap_57",
+            "gap": true,
+            "correctAnswer": "сная",
+            "token": "ужа"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экология»."
+        },
+        {
+            "gap_id": "gap_58",
+            "gap": true,
+            "correctAnswer": "ти",
+            "token": "Э"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "слова"
+        },
+        {
+            "gap_id": "gap_59",
+            "gap": true,
+            "correctAnswer": "ятны",
+            "token": "пон"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "всем."
+        },
+        {
+            "gap_id": "gap_60",
+            "gap": true,
+            "correctAnswer": "о",
+            "token": "Д"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "недавнего"
+        },
+        {
+            "gap_id": "gap_61",
+            "gap": true,
+            "correctAnswer": "мени",
+            "token": "вре"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "считали,"
+        },
+        {
+            "gap_id": "gap_62",
+            "gap": true,
+            "correctAnswer": "то",
+            "token": "ч"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологией"
+        },
+        {
+            "gap_id": "gap_63",
+            "gap": true,
+            "correctAnswer": "жны",
+            "token": "дол"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "заниматься"
+        },
+        {
+            "gap_id": "gap_64",
+            "gap": true,
+            "correctAnswer": "ько",
+            "token": "тол"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "биологи."
+        },
+        {
+            "gap_id": "gap_65",
+            "gap": true,
+            "correctAnswer": "ительно",
+            "token": "Действ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "они"
+        },
+        {
+            "gap_id": "gap_66",
+            "gap": true,
+            "correctAnswer": "чше",
+            "token": "лу"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "других"
+        },
+        {
+            "gap_id": "gap_67",
+            "gap": true,
+            "correctAnswer": "ают",
+            "token": "зн"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "какими"
+        },
+        {
+            "gap_id": "gap_68",
+            "gap": true,
+            "correctAnswer": "жны",
+            "token": "дол"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "быть"
+        },
+        {
+            "gap_id": "gap_69",
+            "gap": true,
+            "correctAnswer": "ающая",
+            "token": "окруж"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "среда"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_70",
+            "gap": true,
+            "correctAnswer": "овия",
+            "token": "усл"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "жизни"
+        },
+        {
+            "gap_id": "gap_71",
+            "gap": true,
+            "correctAnswer": "века",
+            "token": "чело"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "растений"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_72",
+            "gap": true,
+            "correctAnswer": "тных",
+            "token": "живо"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Но"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_73",
+            "gap": true,
+            "correctAnswer": "оящее",
+            "token": "наст"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "время"
+        },
+        {
+            "gap_id": "gap_74",
+            "gap": true,
+            "correctAnswer": "овы",
+            "token": "осн"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологии"
+        },
+        {
+            "gap_id": "gap_75",
+            "gap": true,
+            "correctAnswer": "чают",
+            "token": "изу"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "будущие"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "юристы,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "медики,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "инженеры"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "строители."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Все"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "они"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "должны"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "будут"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "заниматься"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проблемами"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологического"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "контроля,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "улучшения"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "окружающей"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "среды,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сохранения"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "природных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ресурсов,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "защиты"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "человека"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "от"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологических"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проблем."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "И"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "конечно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "же,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "XXI"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "веке"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "одной"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "из"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "главных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "задач"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "будет"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологический"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "принцип"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "строительстве"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "домов."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Главную"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "роль"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "будут"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "играть"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "архитекторы,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ведь"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "само"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "слово"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«экология»"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "переводе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "греческого"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "означает"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«понятие"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "доме»."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Новые"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "идеи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "методы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "строительства,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "использование"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологически"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "чистых"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "строительных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "материалов"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "систем"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "обеспечения"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "энергией"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "помогут"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сделать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "жизненную"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "среду"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "человека"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "более"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "комфортной"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологически"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "безопасной."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Понятие"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«градостроительная»"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "или"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«архитектурная"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экология»"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "вошло"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "язык"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "специалистов"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "конце"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "70-ых"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "годов"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "прошлого"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "века."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Архитектурная"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экология"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "–"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "это"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "наука"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "том,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "как"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "можно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "нужно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "создавать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экологически"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "комфортную"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "среду"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": ""
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "том,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "как"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "должны"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "действовать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "люди"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "системе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«природа"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "–"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "город"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "–"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "человек»."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "всегда"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "любила"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "театр."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "В"
+        },
+        {
+            "gap_id": "gap_76",
+            "gap": true,
+            "correctAnswer": "кве",
+            "token": "Мос"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "есть"
+        },
+        {
+            "gap_id": "gap_77",
+            "gap": true,
+            "correctAnswer": "ень",
+            "token": "оч"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "хорошие"
+        },
+        {
+            "gap_id": "gap_78",
+            "gap": true,
+            "correctAnswer": "тры",
+            "token": "теа"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_79",
+            "gap": true,
+            "correctAnswer": "ого",
+            "token": "мн"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "талантливых"
+        },
+        {
+            "gap_id": "gap_80",
+            "gap": true,
+            "correctAnswer": "стов",
+            "token": "арти"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Сначала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "gap_81",
+            "gap": true,
+            "correctAnswer": "ила",
+            "token": "ход"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_82",
+            "gap": true,
+            "correctAnswer": "атр",
+            "token": "те"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "gap_83",
+            "gap": true,
+            "correctAnswer": "мой",
+            "token": "ма"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "а"
+        },
+        {
+            "gap_id": "gap_84",
+            "gap": true,
+            "correctAnswer": "том",
+            "token": "по"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "gap_85",
+            "gap": true,
+            "correctAnswer": "угами",
+            "token": "подр"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_86",
+            "gap": true,
+            "correctAnswer": "ьями",
+            "token": "друз"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вы,"
+        },
+        {
+            "gap_id": "gap_87",
+            "gap": true,
+            "correctAnswer": "ечно",
+            "token": "кон"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "понимаете,"
+        },
+        {
+            "gap_id": "gap_88",
+            "gap": true,
+            "correctAnswer": "то",
+            "token": "ч"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "gap_89",
+            "gap": true,
+            "correctAnswer": "тала",
+            "token": "меч"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "стать"
+        },
+        {
+            "gap_id": "gap_90",
+            "gap": true,
+            "correctAnswer": "сткой",
+            "token": "арти"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_91",
+            "gap": true,
+            "correctAnswer": "тать",
+            "token": "рабо"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_92",
+            "gap": true,
+            "correctAnswer": "тре",
+            "token": "теа"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Поэтому"
+        },
+        {
+            "gap_id": "gap_93",
+            "gap": true,
+            "correctAnswer": "сле",
+            "token": "по"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "школы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "gap_94",
+            "gap": true,
+            "correctAnswer": "упила",
+            "token": "пост"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_95",
+            "gap": true,
+            "correctAnswer": "альный",
+            "token": "театр"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "институт."
+        },
+        {
+            "gap_id": "gap_96",
+            "gap": true,
+            "correctAnswer": "ам",
+            "token": "Т"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "меня"
+        },
+        {
+            "gap_id": "gap_97",
+            "gap": true,
+            "correctAnswer": "али",
+            "token": "жд"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "новые"
+        },
+        {
+            "gap_id": "gap_98",
+            "gap": true,
+            "correctAnswer": "зья",
+            "token": "дру"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "новые"
+        },
+        {
+            "gap_id": "gap_99",
+            "gap": true,
+            "correctAnswer": "лемы",
+            "token": "проб"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_100",
+            "gap": true,
+            "correctAnswer": "вые",
+            "token": "но"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экзамены."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "И"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "скоро"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "забыла"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "своего"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "учителя"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физики."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "И"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "вот"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "один"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "раз,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "январе,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "когда"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "шла"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "по"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "улице"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "цветами,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "встретила"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "его."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "В"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "то"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "время"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "была"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "влюблена"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "одного"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "артиста."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Но"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "была"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "рада"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "встретить"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "своего"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "учителя"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физики."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Мы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "долго"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "разговаривали."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "забывайте"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "своей"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ученице,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сказала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "подарила"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ему"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "свои"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "цветы."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "думала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "тогда,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "это"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "было"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "очень"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "красиво."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "поехала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "автобусе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "домой,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "а"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "он"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "пошел"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "библиотеку."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "понимала,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Москва"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "большой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "город"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "никогда"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "больше"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "встретим"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "друг"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "друга."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Когда"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "училась"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "школе,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "любила"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физику."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_101",
+            "gap": true,
+            "correctAnswer": "одня",
+            "token": "сег"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ничего"
+        },
+        {
+            "gap_id": "gap_102",
+            "gap": true,
+            "correctAnswer": "е",
+            "token": "н"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "понимаю"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_103",
+            "gap": true,
+            "correctAnswer": "ей",
+            "token": "н"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Учителя"
+        },
+        {
+            "gap_id": "gap_104",
+            "gap": true,
+            "correctAnswer": "ики",
+            "token": "физ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_105",
+            "gap": true,
+            "correctAnswer": "шей",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "школе"
+        },
+        {
+            "gap_id": "gap_106",
+            "gap": true,
+            "correctAnswer": "ли",
+            "token": "бы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "плохие."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Я"
+        },
+        {
+            "gap_id": "gap_107",
+            "gap": true,
+            "correctAnswer": "маю",
+            "token": "ду"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "gap_108",
+            "gap": true,
+            "correctAnswer": "ни",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сами"
+        },
+        {
+            "gap_id": "gap_109",
+            "gap": true,
+            "correctAnswer": "е",
+            "token": "н"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "любили"
+        },
+        {
+            "gap_id": "gap_110",
+            "gap": true,
+            "correctAnswer": "ту",
+            "token": "э"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "науку."
+        },
+        {
+            "gap_id": "gap_111",
+            "gap": true,
+            "correctAnswer": "гда",
+            "token": "Ко"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "gap_112",
+            "gap": true,
+            "correctAnswer": "лась",
+            "token": "учи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_113",
+            "gap": true,
+            "correctAnswer": "ятом",
+            "token": "дес"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "классе,"
+        },
+        {
+            "gap_id": "gap_114",
+            "gap": true,
+            "correctAnswer": "ои",
+            "token": "м"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "родители"
+        },
+        {
+            "gap_id": "gap_115",
+            "gap": true,
+            "correctAnswer": "яли",
+            "token": "пон"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "gap_116",
+            "gap": true,
+            "correctAnswer": "е",
+            "token": "н"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сдам"
+        },
+        {
+            "gap_id": "gap_117",
+            "gap": true,
+            "correctAnswer": "амен",
+            "token": "экз"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "по"
+        },
+        {
+            "gap_id": "gap_118",
+            "gap": true,
+            "correctAnswer": "ике",
+            "token": "физ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Они"
+        },
+        {
+            "gap_id": "gap_119",
+            "gap": true,
+            "correctAnswer": "асили",
+            "token": "пригл"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "студента"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "gap_120",
+            "gap": true,
+            "correctAnswer": "ика",
+            "token": "физ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "чтобы"
+        },
+        {
+            "gap_id": "gap_121",
+            "gap": true,
+            "correctAnswer": "н",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "занимался"
+        },
+        {
+            "gap_id": "gap_122",
+            "gap": true,
+            "correctAnswer": "о",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мной."
+        },
+        {
+            "gap_id": "gap_123",
+            "gap": true,
+            "correctAnswer": "н",
+            "token": "О"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "должен"
+        },
+        {
+            "gap_id": "gap_124",
+            "gap": true,
+            "correctAnswer": "ыл",
+            "token": "б"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сделать"
+        },
+        {
+            "gap_id": "gap_125",
+            "gap": true,
+            "correctAnswer": "о",
+            "token": "т"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "смогли"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сделать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мои"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "учителя"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "школе."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Этот"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "студент"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "очень"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "любил"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физику"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "серьезно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "занимался"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "со"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мной."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Каждый"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "раз,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "когда"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "он"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "спрашивал"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "меня:"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "“"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Скажите,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вам"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "непонятно?"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "”"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "А"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "каждый"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "раз"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "хотела"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ответить"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ему:"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "“"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Мне"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "непонятно,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "почему"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "говорите"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "со"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мной"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "только"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физике"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Почему"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "приглашаете"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "меня"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "кино"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "или"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "театр?"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Почему"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "видите,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вас"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "люблю”."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Да,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "семнадцать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "лет"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "была"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "влюблена"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "студента"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физического"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "факультета."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Но"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "он"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "любил"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "только"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "свою"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "науку"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "видел"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ни"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "весны,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ни"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "меня,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ни"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "других"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "девушек,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "которые"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "интересом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "смотрели"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "него."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Был"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "май..."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "хотела"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "учить"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физику,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "потому"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "все"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "время"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "думала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "студенте."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Он"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "был"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "талантливым"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "учителем,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "я"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "неплохо"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сдала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "экзамен"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "по"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физике."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Восемь"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "школьников-победителей"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "конкурса"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "для"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "старшеклассников"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«Мир"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "глазами"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "молодых»"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "примут"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "участие"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "саммите"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Юношеской"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "восьмёрки!"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Для"
+        },
+        {
+            "gap_id": "gap_126",
+            "gap": true,
+            "correctAnswer": "стия",
+            "token": "уча"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_127",
+            "gap": true,
+            "correctAnswer": "еской",
+            "token": "Юнош"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "восьмёрке"
+        },
+        {
+            "gap_id": "gap_128",
+            "gap": true,
+            "correctAnswer": "ята",
+            "token": "реб"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проходили"
+        },
+        {
+            "gap_id": "gap_129",
+            "gap": true,
+            "correctAnswer": "ьшой",
+            "token": "бол"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "конкурс."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "В"
+        },
+        {
+            "gap_id": "gap_130",
+            "gap": true,
+            "correctAnswer": "урсе",
+            "token": "конк"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "могли"
+        },
+        {
+            "gap_id": "gap_131",
+            "gap": true,
+            "correctAnswer": "вовать",
+            "token": "участ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "только"
+        },
+        {
+            "gap_id": "gap_132",
+            "gap": true,
+            "correctAnswer": "ители",
+            "token": "побед"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "школьных"
+        },
+        {
+            "gap_id": "gap_133",
+            "gap": true,
+            "correctAnswer": "альных",
+            "token": "регион"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "олимпиад."
+        },
+        {
+            "gap_id": "gap_134",
+            "gap": true,
+            "correctAnswer": "вым",
+            "token": "Пер"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "заданием"
+        },
+        {
+            "gap_id": "gap_135",
+            "gap": true,
+            "correctAnswer": "урса",
+            "token": "конк"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "стало"
+        },
+        {
+            "gap_id": "gap_136",
+            "gap": true,
+            "correctAnswer": "сание",
+            "token": "напи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "эссе"
+        },
+        {
+            "gap_id": "gap_137",
+            "gap": true,
+            "correctAnswer": "а",
+            "token": "н"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "тему"
+        },
+        {
+            "gap_id": "gap_138",
+            "gap": true,
+            "correctAnswer": "мита",
+            "token": "сам"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "«Группы"
+        },
+        {
+            "gap_id": "gap_139",
+            "gap": true,
+            "correctAnswer": "ьми",
+            "token": "вос"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Второй"
+        },
+        {
+            "gap_id": "gap_140",
+            "gap": true,
+            "correctAnswer": "ап",
+            "token": "эт"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "включал"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_141",
+            "gap": true,
+            "correctAnswer": "бя",
+            "token": "се"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "устную"
+        },
+        {
+            "gap_id": "gap_142",
+            "gap": true,
+            "correctAnswer": "нтацию",
+            "token": "презе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "основных"
+        },
+        {
+            "gap_id": "gap_143",
+            "gap": true,
+            "correctAnswer": "исов",
+            "token": "тез"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "эссе,"
+        },
+        {
+            "gap_id": "gap_144",
+            "gap": true,
+            "correctAnswer": "дование",
+            "token": "собесе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "gap_145",
+            "gap": true,
+            "correctAnswer": "йском",
+            "token": "англи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "языке"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_146",
+            "gap": true,
+            "correctAnswer": "овую",
+            "token": "дел"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "игру,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_147",
+            "gap": true,
+            "correctAnswer": "орой",
+            "token": "кот"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ребята"
+        },
+        {
+            "gap_id": "gap_148",
+            "gap": true,
+            "correctAnswer": "жны",
+            "token": "дол"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "были"
+        },
+        {
+            "gap_id": "gap_149",
+            "gap": true,
+            "correctAnswer": "упить",
+            "token": "выст"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "gap_150",
+            "gap": true,
+            "correctAnswer": "чью",
+            "token": "ре"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "посвящённой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "основным"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проблемам"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "региона"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "путям"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "их"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "решения."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Юные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "учёные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "со"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "всего"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мира"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "неделю"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "собрались"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Петербурге."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "В"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Государственном"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "университете"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "открылась"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Четырнадцатая"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "международная"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "конференция"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "молодых"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "работников"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "науки."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "В"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ней"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "участвуют"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "школьники"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "из"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "тринадцати"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "разных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "стран."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Это"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "одна"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "из"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "самых"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "авторитетных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "престижных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "встреч"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "такого"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "формата."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Подростки"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "обсуждают"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "свои"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "успехи."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Юные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "учёные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "представят"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "свои"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "достижения"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "физике,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "математике"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "компьютерных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "технологиях."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "А"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "следующем"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "году"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "к"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "этим"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "дисциплинам"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "добавится"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "химия."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Мать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сын"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "живут"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "вместе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "небольшой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "квартире."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Сын"
+        },
+        {
+            "gap_id": "gap_151",
+            "gap": true,
+            "correctAnswer": "тает",
+            "token": "рабо"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "врачом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_152",
+            "gap": true,
+            "correctAnswer": "нице",
+            "token": "боль"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "У"
+        },
+        {
+            "gap_id": "gap_153",
+            "gap": true,
+            "correctAnswer": "го",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "есть"
+        },
+        {
+            "gap_id": "gap_154",
+            "gap": true,
+            "correctAnswer": "ушка",
+            "token": "дев"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ирочка,"
+        },
+        {
+            "gap_id": "gap_155",
+            "gap": true,
+            "correctAnswer": "орую",
+            "token": "кот"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "он"
+        },
+        {
+            "gap_id": "gap_156",
+            "gap": true,
+            "correctAnswer": "бит",
+            "token": "лю"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Но"
+        },
+        {
+            "gap_id": "gap_157",
+            "gap": true,
+            "correctAnswer": "ть",
+            "token": "ма"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "gap_158",
+            "gap": true,
+            "correctAnswer": "чет",
+            "token": "хо"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "чтобы"
+        },
+        {
+            "gap_id": "gap_159",
+            "gap": true,
+            "correctAnswer": "ын",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "женился"
+        },
+        {
+            "gap_id": "gap_160",
+            "gap": true,
+            "correctAnswer": "а",
+            "token": "н"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ирочке."
+        },
+        {
+            "gap_id": "gap_161",
+            "gap": true,
+            "correctAnswer": "ушка",
+            "token": "Дев"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "gap_162",
+            "gap": true,
+            "correctAnswer": "ится",
+            "token": "нрав"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "матери."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "У"
+        },
+        {
+            "gap_id": "gap_163",
+            "gap": true,
+            "correctAnswer": "их",
+            "token": "н"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "разные"
+        },
+        {
+            "gap_id": "gap_164",
+            "gap": true,
+            "correctAnswer": "ктеры",
+            "token": "хара"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "разные"
+        },
+        {
+            "gap_id": "gap_165",
+            "gap": true,
+            "correctAnswer": "ляды",
+            "token": "взг"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "gap_166",
+            "gap": true,
+            "correctAnswer": "знь",
+            "token": "жи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Да"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_167",
+            "gap": true,
+            "correctAnswer": "ть",
+            "token": "жи"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_168",
+            "gap": true,
+            "correctAnswer": "ной",
+            "token": "од"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "квартире"
+        },
+        {
+            "gap_id": "gap_169",
+            "gap": true,
+            "correctAnswer": "ень",
+            "token": "оч"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "трудно."
+        },
+        {
+            "gap_id": "gap_170",
+            "gap": true,
+            "correctAnswer": "ни",
+            "token": "О"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "всё"
+        },
+        {
+            "gap_id": "gap_171",
+            "gap": true,
+            "correctAnswer": "емя",
+            "token": "вр"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ссорятся."
+        },
+        {
+            "gap_id": "gap_172",
+            "gap": true,
+            "correctAnswer": "ын",
+            "token": "С"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "любит"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_173",
+            "gap": true,
+            "correctAnswer": "ть",
+            "token": "ма"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_174",
+            "gap": true,
+            "correctAnswer": "ушку",
+            "token": "дев"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "но"
+        },
+        {
+            "gap_id": "gap_175",
+            "gap": true,
+            "correctAnswer": "н",
+            "token": "о"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "должен"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "выбирать."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "И"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "он"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "выбирает"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "…"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "девушку."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Он"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "уходит"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "из"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "дома,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "снимает"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "квартиру,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "которой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "живет"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "вместе"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ирочкой."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "А"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "остается"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "одна,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "она"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "чувствует"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "себя"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "одинокой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "несчастной."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ей"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "кажется,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "она"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "потеряла"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сына."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Но"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "случилось"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "несчастье."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ирочка"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ехала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "машине"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "попала"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "автомобильную"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "катастрофу."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ирочка"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "чувствует"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "себя"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "очень"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "плохо."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Она"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "может"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ходить,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "может"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "говорить."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ей"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "нужна"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "помощь."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Кто"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "поможет?"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Кто"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "будет"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ухаживать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "за"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Ирочкой?"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Сын"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "едет"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "к"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "матери"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "просит"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ее"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "помочь."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Целый"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "год"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "мать"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ухаживает"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "за"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "девушкой."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Она"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "кормит"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ее,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "как"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ребенка,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "дает"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ей"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "лекарство,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проводит"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ней"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "все"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "свободное"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "время."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "И"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "благодаря"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "матери"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "девушка"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "выздоравливает."
+        }
+    ],
+    [
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Примеры"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "долголетия"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "людей,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "труде"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "которых"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "значительную"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "роль"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "играют"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "элементы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "творчества,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "настолько"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "многочисленны,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "трудно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "задуматься"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "над"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "вопросом,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "существует"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ли"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "самом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "деле"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "закономерность"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "между"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "творчеством"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "феноменом"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "долгожительства"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "или"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "это"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "больше,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "чем"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "наши"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "субъективные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "представления,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "основанные"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "на"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "случайно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "выбранных"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "памятью"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "биографиях?"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Вообще"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "gap_176",
+            "gap": true,
+            "correctAnswer": "о",
+            "token": "т"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "чисто"
+        },
+        {
+            "gap_id": "gap_177",
+            "gap": true,
+            "correctAnswer": "ически",
+            "token": "теорет"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "такие"
+        },
+        {
+            "gap_id": "gap_178",
+            "gap": true,
+            "correctAnswer": "авления",
+            "token": "предст"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "gap_179",
+            "gap": true,
+            "correctAnswer": "оречат",
+            "token": "против"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "фундаментальным"
+        },
+        {
+            "gap_id": "gap_180",
+            "gap": true,
+            "correctAnswer": "ическим",
+            "token": "биолог"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "закономерностям."
+        },
+        {
+            "gap_id": "gap_181",
+            "gap": true,
+            "correctAnswer": "ования",
+            "token": "Исслед"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ученых"
+        },
+        {
+            "gap_id": "gap_182",
+            "gap": true,
+            "correctAnswer": "зали",
+            "token": "пока"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "gap_183",
+            "gap": true,
+            "correctAnswer": "на",
+            "token": "од"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "из"
+        },
+        {
+            "gap_id": "gap_184",
+            "gap": true,
+            "correctAnswer": "ностей",
+            "token": "особен"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "старения"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "-"
+        },
+        {
+            "gap_id": "gap_185",
+            "gap": true,
+            "correctAnswer": "ение",
+            "token": "сниж"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "адаптационных"
+        },
+        {
+            "gap_id": "gap_186",
+            "gap": true,
+            "correctAnswer": "ностей",
+            "token": "способ"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "организма,"
+        },
+        {
+            "gap_id": "gap_187",
+            "gap": true,
+            "correctAnswer": "анное",
+            "token": "вызв"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ослаблением"
+        },
+        {
+            "gap_id": "gap_188",
+            "gap": true,
+            "correctAnswer": "вной",
+            "token": "нер"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "системы,"
+        },
+        {
+            "gap_id": "gap_189",
+            "gap": true,
+            "correctAnswer": "орое",
+            "token": "кот"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "уменьшает"
+        },
+        {
+            "gap_id": "gap_190",
+            "gap": true,
+            "correctAnswer": "ивление",
+            "token": "сопрот"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "болезням"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "gap_191",
+            "gap": true,
+            "correctAnswer": "гим",
+            "token": "дру"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "неблагоприятным"
+        },
+        {
+            "gap_id": "gap_192",
+            "gap": true,
+            "correctAnswer": "виям",
+            "token": "усло"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Большинство"
+        },
+        {
+            "gap_id": "gap_193",
+            "gap": true,
+            "correctAnswer": "ителей",
+            "token": "долгож"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "имеют"
+        },
+        {
+            "gap_id": "gap_194",
+            "gap": true,
+            "correctAnswer": "ьный",
+            "token": "сил"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "тип"
+        },
+        {
+            "gap_id": "gap_195",
+            "gap": true,
+            "correctAnswer": "вной",
+            "token": "нер"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "деятельности,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "gap_196",
+            "gap": true,
+            "correctAnswer": "ости",
+            "token": "стар"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "они"
+        },
+        {
+            "gap_id": "gap_197",
+            "gap": true,
+            "correctAnswer": "аняют",
+            "token": "сохр"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "особенности"
+        },
+        {
+            "gap_id": "gap_198",
+            "gap": true,
+            "correctAnswer": "рической",
+            "token": "биэлект"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "деятельности"
+        },
+        {
+            "gap_id": "gap_199",
+            "gap": true,
+            "correctAnswer": "зга",
+            "token": "мо"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "свойственной"
+        },
+        {
+            "gap_id": "gap_200",
+            "gap": true,
+            "correctAnswer": "дости",
+            "token": "моло"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "А"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "так"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "как"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "наша"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "“нервная"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "система"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "в"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "высокой"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "степени"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "саморегулирующаяся,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сама"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "себя"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "поддерживающая"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "и"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "даже"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "совершенствующаяся,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "восстанавливающаяся"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "”"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "(И."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "П."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "Павлов),"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "то"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "можно"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "сказать,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "что"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "с"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ослаблением"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "своей"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "нервной"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "системы"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "может"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "бороться"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "каждый."
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "И"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "тем"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "не"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "менее,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "как"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "ни"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "убедительна"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "эта"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "логика,"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "все"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "же"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "она"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "требует"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "статистической"
+        },
+        {
+            "gap_id": "none",
+            "gap": false,
+            "correctAnswer": "",
+            "token": "проверки."
+        }
+    ]
+]
